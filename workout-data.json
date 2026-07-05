@@ -1,1 +1,24 @@
-
+{
+  "logs": [
+    {
+      "id": "mr7ykm98eequn",
+      "date": "2026-07-05",
+      "exerciseId": "deadlift",
+      "sets": [
+        {
+          "weight": 90,
+          "reps": 5
+        },
+        {
+          "weight": 80,
+          "reps": 12
+        }
+      ],
+      "note": "Did good"
+    }
+  ],
+  "plans": {},
+  "meta": {
+    "version": 1
+  }
+}
