@@ -179,6 +179,30 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mr96dxtgfkpz8",
+      "date": "2026-07-06",
+      "exerciseId": "hammer_curl",
+      "sets": [
+        {
+          "weight": 10,
+          "reps": 12
+        },
+        {
+          "weight": 10,
+          "reps": 10
+        },
+        {
+          "weight": 7.5,
+          "reps": 12
+        },
+        {
+          "weight": 7.5,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
