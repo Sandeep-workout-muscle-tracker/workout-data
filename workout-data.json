@@ -135,6 +135,26 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mr93s6ixnoftr",
+      "date": "2026-07-06",
+      "exerciseId": "pushup",
+      "sets": [
+        {
+          "weight": 70,
+          "reps": 22
+        },
+        {
+          "weight": 70,
+          "reps": 15
+        },
+        {
+          "weight": 70,
+          "reps": 10
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
