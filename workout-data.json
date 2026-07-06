@@ -115,6 +115,26 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mr8w8ydc7zs0t",
+      "date": "2026-07-05",
+      "exerciseId": "hyperextension",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 15
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
