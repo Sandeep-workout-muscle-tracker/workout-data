@@ -17,7 +17,18 @@
       "note": "Did good"
     }
   ],
-  "plans": {},
+  "plans": {
+    "2026-07-06": {
+      "title": "Push - Chest",
+      "exerciseIds": [
+        "inc_db_press",
+        "pec_deck",
+        "high_low_cable_fly",
+        "flat_bb_press",
+        "pushup"
+      ]
+    }
+  },
   "meta": {
     "version": 1
   }
