@@ -137,92 +137,20 @@
       "note": ""
     },
     {
-      "id": "mr93s6ixnoftr",
+      "id": "mr95mnck5u9b2",
       "date": "2026-07-06",
-      "exerciseId": "pushup",
+      "exerciseId": "high_low_cable_fly",
       "sets": [
         {
-          "weight": 70,
-          "reps": 22
-        },
-        {
-          "weight": 70,
-          "reps": 15
-        },
-        {
-          "weight": 70,
+          "weight": 9.1,
           "reps": 10
-        }
-      ],
-      "note": ""
-    },
-    {
-      "id": "mr94cogv9brms",
-      "date": "2026-07-06",
-      "exerciseId": "flat_bb_press",
-      "sets": [
+        },
         {
-          "weight": 30,
+          "weight": 6.8,
           "reps": 12
         },
         {
-          "weight": 30,
-          "reps": 12
-        },
-        {
-          "weight": 35,
-          "reps": 12
-        },
-        {
-          "weight": 40,
-          "reps": 8
-        }
-      ],
-      "note": ""
-    },
-    {
-      "id": "mr94ubldqj4hc",
-      "date": "2026-07-06",
-      "exerciseId": "inc_db_press",
-      "sets": [
-        {
-          "weight": 12.5,
-          "reps": 12
-        },
-        {
-          "weight": 12.5,
-          "reps": 12
-        },
-        {
-          "weight": 10,
-          "reps": 12
-        },
-        {
-          "weight": 10,
-          "reps": 12
-        }
-      ],
-      "note": ""
-    },
-    {
-      "id": "mr958gvykzqgw",
-      "date": "2026-07-06",
-      "exerciseId": "pec_deck",
-      "sets": [
-        {
-          "weight": 59,
-          "reps": 12
-        },
-        {
-          "weight": 52,
-          "reps": 12
-        },
-        {
-          "weight": 52,
-          "reps": 9
-        },
-        {
-          "weight": 45,
+          "weight": 6.8,
           "reps": 12
         }
       ],
