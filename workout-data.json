@@ -203,6 +203,22 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mr96r0sjxsf6z",
+      "date": "2026-07-06",
+      "exerciseId": "concentration_curl",
+      "sets": [
+        {
+          "weight": 10,
+          "reps": 8
+        },
+        {
+          "weight": 7.5,
+          "reps": 10
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
