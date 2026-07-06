@@ -15,6 +15,22 @@
         }
       ],
       "note": "Did good"
+    },
+    {
+      "id": "mr8w57ogt0j59",
+      "date": "2026-07-05",
+      "exerciseId": "cable_pushdown",
+      "sets": [
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 11.6,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
