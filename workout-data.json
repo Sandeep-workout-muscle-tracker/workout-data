@@ -25,7 +25,10 @@
         "pec_deck",
         "high_low_cable_fly",
         "flat_bb_press",
-        "pushup"
+        "pushup",
+        "hammer_curl",
+        "cable_curl",
+        "concentration_curl"
       ]
     }
   },
