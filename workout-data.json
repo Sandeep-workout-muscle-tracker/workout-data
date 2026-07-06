@@ -155,6 +155,30 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mr94cogv9brms",
+      "date": "2026-07-06",
+      "exerciseId": "flat_bb_press",
+      "sets": [
+        {
+          "weight": 30,
+          "reps": 12
+        },
+        {
+          "weight": 30,
+          "reps": 12
+        },
+        {
+          "weight": 35,
+          "reps": 12
+        },
+        {
+          "weight": 40,
+          "reps": 8
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
