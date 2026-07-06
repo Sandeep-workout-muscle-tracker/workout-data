@@ -30,6 +30,19 @@
         "cable_curl",
         "concentration_curl"
       ]
+    },
+    "2026-07-05": {
+      "title": "",
+      "exerciseIds": [
+        "cable_pushdown",
+        "db_oh_ext",
+        "bench_dip",
+        "deadlift",
+        "seated_cable_row",
+        "chinup",
+        "straight_arm_pulldown",
+        "hyperextension"
+      ]
     }
   },
   "meta": {
