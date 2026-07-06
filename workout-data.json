@@ -31,6 +31,22 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mr8w63a0kkxvb",
+      "date": "2026-07-05",
+      "exerciseId": "db_oh_ext",
+      "sets": [
+        {
+          "weight": 15,
+          "reps": 12
+        },
+        {
+          "weight": 12.5,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
