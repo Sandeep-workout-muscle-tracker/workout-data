@@ -95,6 +95,26 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mr8w8mrkn3dmk",
+      "date": "2026-07-05",
+      "exerciseId": "straight_arm_pulldown",
+      "sets": [
+        {
+          "weight": 45,
+          "reps": 12
+        },
+        {
+          "weight": 41.3,
+          "reps": 12
+        },
+        {
+          "weight": 39,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
