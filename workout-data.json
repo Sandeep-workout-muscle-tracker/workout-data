@@ -59,6 +59,22 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mr8w76iw1osvk",
+      "date": "2026-07-05",
+      "exerciseId": "seated_cable_row",
+      "sets": [
+        {
+          "weight": 36,
+          "reps": 12
+        },
+        {
+          "weight": 29,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
