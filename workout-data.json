@@ -341,9 +341,9 @@
       ]
     },
     "2026-07-07": {
-      "title": "Legs",
+      "title": "Legs & Core",
       "exerciseIds": [
-        "leg_press",
+        "bb_squat",
         "rdl_ham",
         "leg_extension",
         "leg_press_calf_raise",
@@ -356,5 +356,11 @@
   },
   "meta": {
     "version": 1
+  },
+  "stopwatch": {
+    "2026-07-07": {
+      "startedAt": 1783421892721,
+      "endedAt": null
+    }
   }
 }
