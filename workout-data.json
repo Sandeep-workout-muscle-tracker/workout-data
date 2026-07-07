@@ -348,8 +348,7 @@
         "leg_press_calf_raise",
         "bb_squat",
         "rdl_ham",
-        "sumo_squat",
-        "machine_kickback"
+        "sumo_squat"
       ],
       "warmup": "",
       "cooldown": ""
