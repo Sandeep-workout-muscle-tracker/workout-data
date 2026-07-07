@@ -331,6 +331,18 @@
         }
       ],
       "note": "Did this workout with wearing belt"
+    },
+    {
+      "id": "mrak9yeuommxq",
+      "date": "2026-07-07",
+      "exerciseId": "rdl_ham",
+      "sets": [
+        {
+          "weight": 25,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
