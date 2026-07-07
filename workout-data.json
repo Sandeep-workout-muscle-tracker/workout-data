@@ -498,7 +498,8 @@
         "db_oh_ext",
         "bench_dip",
         "deadlift",
-        "seated_cable_row"
+        "seated_cable_row",
+        "db_shrug"
       ],
       "warmup": "",
       "cooldown": ""
