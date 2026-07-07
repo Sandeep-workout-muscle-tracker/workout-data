@@ -311,6 +311,18 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mrajs76egslv6",
+      "date": "2026-07-07",
+      "exerciseId": "bb_squat",
+      "sets": [
+        {
+          "weight": 40,
+          "reps": 10
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
