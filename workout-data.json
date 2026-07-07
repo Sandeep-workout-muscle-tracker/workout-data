@@ -344,10 +344,10 @@
       "title": "Legs & Core",
       "exerciseIds": [
         "rdl_ham",
+        "leg_press",
         "leg_extension",
         "leg_press_calf_raise",
         "sumo_deadlift",
-        "leg_press",
         "sumo_squat"
       ],
       "warmup": "",
