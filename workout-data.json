@@ -495,9 +495,7 @@
       "exerciseIds": [
         "cable_pushdown",
         "db_oh_ext",
-        "bench_dip",
-        "deadlift",
-        "seated_cable_row"
+        "bench_dip"
       ],
       "warmup": "",
       "cooldown": ""
