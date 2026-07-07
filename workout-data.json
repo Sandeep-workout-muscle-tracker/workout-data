@@ -343,12 +343,12 @@
     "2026-07-07": {
       "title": "Legs & Core",
       "exerciseIds": [
-        "bb_squat",
         "rdl_ham",
         "leg_extension",
         "leg_press_calf_raise",
         "sumo_deadlift",
-        "sumo_squat"
+        "sumo_squat",
+        "leg_press"
       ],
       "warmup": "",
       "cooldown": ""
