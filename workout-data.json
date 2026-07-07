@@ -492,7 +492,9 @@
     },
     "2026-07-09": {
       "title": "Back & Triceps",
-      "exerciseIds": [],
+      "exerciseIds": [
+        "cable_pushdown"
+      ],
       "warmup": "",
       "cooldown": ""
     }
