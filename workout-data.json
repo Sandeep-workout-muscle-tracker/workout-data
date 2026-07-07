@@ -343,8 +343,8 @@
     "2026-07-07": {
       "title": "Legs & Core",
       "exerciseIds": [
-        "rdl_ham",
         "leg_press",
+        "rdl_ham",
         "leg_extension",
         "leg_press_calf_raise",
         "sumo_deadlift",
