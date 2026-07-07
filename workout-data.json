@@ -243,6 +243,30 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mra00zcytwczh",
+      "date": "2026-07-06",
+      "exerciseId": "pec_deck",
+      "sets": [
+        {
+          "weight": 59,
+          "reps": 12
+        },
+        {
+          "weight": 52,
+          "reps": 12
+        },
+        {
+          "weight": 52,
+          "reps": 9
+        },
+        {
+          "weight": 45,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
