@@ -320,6 +320,10 @@
         {
           "weight": 40,
           "reps": 10
+        },
+        {
+          "weight": 59,
+          "reps": 8
         }
       ],
       "note": ""
