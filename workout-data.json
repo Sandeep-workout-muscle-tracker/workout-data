@@ -375,6 +375,26 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mralqg0gylc73",
+      "date": "2026-07-07",
+      "exerciseId": "leg_extension",
+      "sets": [
+        {
+          "weight": 43,
+          "reps": 12
+        },
+        {
+          "weight": 36,
+          "reps": 12
+        },
+        {
+          "weight": 36,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
