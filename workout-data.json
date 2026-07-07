@@ -411,8 +411,8 @@
         "rdl_ham",
         "leg_press",
         "leg_extension",
-        "sumo_deadlift",
         "seated_leg_curl",
+        "sumo_deadlift",
         "sumo_squat"
       ],
       "warmup": "",
