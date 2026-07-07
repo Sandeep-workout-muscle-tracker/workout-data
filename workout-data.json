@@ -267,6 +267,30 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mra06k2qjw5qg",
+      "date": "2026-07-06",
+      "exerciseId": "flat_bb_press",
+      "sets": [
+        {
+          "weight": 30,
+          "reps": 12
+        },
+        {
+          "weight": 30,
+          "reps": 12
+        },
+        {
+          "weight": 35,
+          "reps": 12
+        },
+        {
+          "weight": 40,
+          "reps": 8
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
