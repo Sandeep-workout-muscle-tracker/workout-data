@@ -395,6 +395,26 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mram920uc7brk",
+      "date": "2026-07-07",
+      "exerciseId": "sumo_squat",
+      "sets": [
+        {
+          "weight": 16,
+          "reps": 15
+        },
+        {
+          "weight": 16,
+          "reps": 15
+        },
+        {
+          "weight": 16,
+          "reps": 15
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
