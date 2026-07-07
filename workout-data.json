@@ -343,7 +343,8 @@
     "2026-07-07": {
       "title": "Legs & Core",
       "exerciseIds": [
-        "leg_extension"
+        "leg_extension",
+        "sumo_deadlift"
       ],
       "warmup": "",
       "cooldown": ""
