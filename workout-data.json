@@ -432,7 +432,6 @@
         "leg_press",
         "leg_extension",
         "seated_leg_curl",
-        "sumo_deadlift",
         "sumo_squat"
       ],
       "warmup": "",
