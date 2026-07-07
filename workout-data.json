@@ -432,7 +432,8 @@
         "leg_press",
         "leg_extension",
         "seated_leg_curl",
-        "sumo_squat"
+        "sumo_squat",
+        "standing_calf_raise"
       ],
       "warmup": "",
       "cooldown": ""
