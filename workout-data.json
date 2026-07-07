@@ -483,7 +483,8 @@
         "bb_ohp",
         "db_lat_raise",
         "db_front_raise",
-        "cable_face_pull_rd"
+        "cable_face_pull_rd",
+        "reverse_pec_deck_rd"
       ],
       "warmup": "",
       "cooldown": ""
