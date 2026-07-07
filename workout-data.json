@@ -342,9 +342,7 @@
     },
     "2026-07-07": {
       "title": "Legs & Core",
-      "exerciseIds": [
-        "front_squat"
-      ],
+      "exerciseIds": [],
       "warmup": "",
       "cooldown": ""
     }
