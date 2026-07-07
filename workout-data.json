@@ -345,8 +345,8 @@
       "exerciseIds": [
         "leg_extension",
         "sumo_deadlift",
-        "leg_press_calf_raise",
         "bb_squat",
+        "leg_press_calf_raise",
         "rdl_ham",
         "sumo_squat"
       ],
