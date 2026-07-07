@@ -496,7 +496,8 @@
         "cable_pushdown",
         "db_oh_ext",
         "bench_dip",
-        "deadlift"
+        "deadlift",
+        "seated_cable_row"
       ],
       "warmup": "",
       "cooldown": ""
