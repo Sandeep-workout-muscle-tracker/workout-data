@@ -500,7 +500,8 @@
         "deadlift",
         "seated_cable_row",
         "db_shrug",
-        "reverse_pec_deck"
+        "reverse_pec_deck",
+        "hyperextension"
       ],
       "warmup": "",
       "cooldown": ""
