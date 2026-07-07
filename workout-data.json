@@ -499,7 +499,8 @@
         "bench_dip",
         "deadlift",
         "seated_cable_row",
-        "db_shrug"
+        "db_shrug",
+        "reverse_pec_deck"
       ],
       "warmup": "",
       "cooldown": ""
