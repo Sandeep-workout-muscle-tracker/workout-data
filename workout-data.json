@@ -347,8 +347,8 @@
         "leg_extension",
         "leg_press_calf_raise",
         "sumo_deadlift",
-        "sumo_squat",
-        "leg_press"
+        "leg_press",
+        "sumo_squat"
       ],
       "warmup": "",
       "cooldown": ""
