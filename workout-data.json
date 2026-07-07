@@ -493,7 +493,10 @@
     "2026-07-09": {
       "title": "Back & Triceps",
       "exerciseIds": [
-        "chinup"
+        "chinup",
+        "cable_pushdown",
+        "db_oh_ext",
+        "bench_dip"
       ],
       "warmup": "",
       "cooldown": ""
