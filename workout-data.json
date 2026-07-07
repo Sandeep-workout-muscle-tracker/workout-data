@@ -390,8 +390,8 @@
         "bb_squat",
         "rdl_ham",
         "leg_extension",
-        "leg_press",
         "leg_press_calf_raise",
+        "leg_press",
         "sumo_deadlift",
         "sumo_squat"
       ],
