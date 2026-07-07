@@ -344,8 +344,8 @@
       "title": "Legs & Core",
       "exerciseIds": [
         "leg_extension",
-        "sumo_deadlift",
         "bb_squat",
+        "sumo_deadlift",
         "leg_press_calf_raise",
         "rdl_ham",
         "sumo_squat"
