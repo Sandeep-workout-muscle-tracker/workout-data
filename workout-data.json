@@ -480,7 +480,8 @@
     "2026-07-08": {
       "title": "Push - Shoulder",
       "exerciseIds": [
-        "bb_ohp"
+        "bb_ohp",
+        "db_lat_raise"
       ],
       "warmup": "",
       "cooldown": ""
