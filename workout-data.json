@@ -346,8 +346,8 @@
         "bb_squat",
         "rdl_ham",
         "leg_extension",
-        "sumo_deadlift",
         "leg_press_calf_raise",
+        "sumo_deadlift",
         "sumo_squat"
       ],
       "warmup": "",
