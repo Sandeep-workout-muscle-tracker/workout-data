@@ -492,9 +492,7 @@
     },
     "2026-07-09": {
       "title": "Back & Triceps",
-      "exerciseIds": [
-        "face_pull_traps"
-      ],
+      "exerciseIds": [],
       "warmup": "",
       "cooldown": ""
     }
