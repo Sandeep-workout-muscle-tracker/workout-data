@@ -355,6 +355,18 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mrakz0k59t8bg",
+      "date": "2026-07-07",
+      "exerciseId": "leg_press",
+      "sets": [
+        {
+          "weight": 70,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
