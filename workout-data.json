@@ -484,7 +484,8 @@
         "db_lat_raise",
         "db_front_raise",
         "cable_face_pull_rd",
-        "reverse_pec_deck_rd"
+        "reverse_pec_deck_rd",
+        "lying_leg_raise"
       ],
       "warmup": "",
       "cooldown": ""
