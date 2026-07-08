@@ -535,6 +535,30 @@
         }
       ],
       "note": "Pull the rope to forehead"
+    },
+    {
+      "id": "mrc1c2zdjy98l",
+      "date": "2026-07-08",
+      "exerciseId": "reverse_pec_deck_rd",
+      "sets": [
+        {
+          "weight": 52,
+          "reps": 8
+        },
+        {
+          "weight": 52,
+          "reps": 9
+        },
+        {
+          "weight": 45,
+          "reps": 10
+        },
+        {
+          "weight": 39,
+          "reps": 10
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
