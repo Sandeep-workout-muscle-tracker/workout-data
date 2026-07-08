@@ -487,6 +487,30 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mrc0fnwhqmib2",
+      "date": "2026-07-08",
+      "exerciseId": "db_front_raise",
+      "sets": [
+        {
+          "weight": 7.5,
+          "reps": 12
+        },
+        {
+          "weight": 7.5,
+          "reps": 10
+        },
+        {
+          "weight": 5,
+          "reps": 12
+        },
+        {
+          "weight": 5,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
