@@ -904,9 +904,7 @@
     },
     "2026-07-10": {
       "title": "test",
-      "exerciseIds": [
-        "arm_circles"
-      ]
+      "exerciseIds": []
     }
   },
   "meta": {
