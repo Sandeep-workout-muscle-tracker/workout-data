@@ -779,10 +779,10 @@
         "bench_dip",
         "deadlift",
         "seated_cable_row",
+        "lat_pulldown",
         "reverse_pec_deck",
         "hyperextension",
-        "db_shrug",
-        "lat_pulldown"
+        "db_shrug"
       ],
       "warmup": "",
       "cooldown": ""
