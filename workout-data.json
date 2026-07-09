@@ -854,6 +854,23 @@
       ],
       "note": "",
       "durationSec": 27
+    },
+    {
+      "id": "mrdltte8vgpeq",
+      "date": "2026-07-10",
+      "exerciseId": "treadmill_steady",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 6
+        },
+        {
+          "weight": 0,
+          "reps": 3
+        }
+      ],
+      "note": "",
+      "durationSec": 28
     }
   ],
   "plans": {
