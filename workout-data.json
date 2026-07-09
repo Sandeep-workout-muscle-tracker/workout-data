@@ -803,27 +803,6 @@
         }
       ],
       "note": ""
-    },
-    {
-      "id": "mrdm8kw0913vv",
-      "date": "2026-07-11",
-      "exerciseId": "treadmill_steady",
-      "sets": [
-        {
-          "weight": 0,
-          "reps": 1
-        },
-        {
-          "weight": 0,
-          "reps": 3
-        },
-        {
-          "weight": 0,
-          "reps": 2
-        }
-      ],
-      "note": "",
-      "durationSec": 11
     }
   ],
   "plans": {
@@ -900,9 +879,7 @@
     },
     "2026-07-11": {
       "title": "Test2",
-      "exerciseIds": [
-        "treadmill_steady"
-      ]
+      "exerciseIds": []
     }
   },
   "meta": {
