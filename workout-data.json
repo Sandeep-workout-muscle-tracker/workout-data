@@ -728,8 +728,8 @@
         "deadlift",
         "seated_cable_row",
         "reverse_pec_deck",
-        "db_shrug",
-        "hyperextension"
+        "hyperextension",
+        "db_shrug"
       ],
       "warmup": "",
       "cooldown": ""
