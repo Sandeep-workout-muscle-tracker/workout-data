@@ -837,6 +837,23 @@
       ],
       "note": "",
       "durationSec": 50
+    },
+    {
+      "id": "mrdlt3fsmq3bw",
+      "date": "2026-07-10",
+      "exerciseId": "band_pull_aparts",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 6
+        },
+        {
+          "weight": 0,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 27
     }
   ],
   "plans": {
