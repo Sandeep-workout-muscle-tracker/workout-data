@@ -781,7 +781,8 @@
         "seated_cable_row",
         "reverse_pec_deck",
         "hyperextension",
-        "db_shrug"
+        "db_shrug",
+        "lat_pulldown"
       ],
       "warmup": "",
       "cooldown": ""
