@@ -695,6 +695,26 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mrdgbo7dr2rv1",
+      "date": "2026-07-09",
+      "exerciseId": "seated_cable_row",
+      "sets": [
+        {
+          "weight": 43,
+          "reps": 12
+        },
+        {
+          "weight": 36,
+          "reps": 12
+        },
+        {
+          "weight": 36,
+          "reps": 12
+        }
+      ],
+      "note": "Weights improved"
     }
   ],
   "plans": {
