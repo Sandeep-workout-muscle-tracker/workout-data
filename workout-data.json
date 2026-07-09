@@ -715,6 +715,30 @@
         }
       ],
       "note": "Weights improved"
+    },
+    {
+      "id": "mrdgtey7ehdko",
+      "date": "2026-07-09",
+      "exerciseId": "lat_pulldown",
+      "sets": [
+        {
+          "weight": 45,
+          "reps": 12
+        },
+        {
+          "weight": 39,
+          "reps": 12
+        },
+        {
+          "weight": 39,
+          "reps": 12
+        },
+        {
+          "weight": 32,
+          "reps": 12
+        }
+      ],
+      "note": "Weights improved"
     }
   ],
   "plans": {
