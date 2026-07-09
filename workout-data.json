@@ -884,6 +884,19 @@
       ],
       "note": "",
       "durationSec": 46
+    },
+    {
+      "id": "mrdlvi0hvsxal",
+      "date": "2026-07-10",
+      "exerciseId": "chest_doorway",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 9
+        }
+      ],
+      "note": "",
+      "durationSec": 24
     }
   ],
   "plans": {
