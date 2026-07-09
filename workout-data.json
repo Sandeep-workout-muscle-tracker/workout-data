@@ -763,6 +763,26 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mrdhh2s4c2mbp",
+      "date": "2026-07-09",
+      "exerciseId": "hyperextension",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
