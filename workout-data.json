@@ -595,6 +595,30 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mrde2zgigkmh5",
+      "date": "2026-07-09",
+      "exerciseId": "cable_pushdown",
+      "sets": [
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 15.9,
+          "reps": 10
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
