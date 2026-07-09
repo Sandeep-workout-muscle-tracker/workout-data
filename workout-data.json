@@ -783,6 +783,26 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mrdhny64om16h",
+      "date": "2026-07-09",
+      "exerciseId": "db_shrug",
+      "sets": [
+        {
+          "weight": 17.5,
+          "reps": 12
+        },
+        {
+          "weight": 17.5,
+          "reps": 12
+        },
+        {
+          "weight": 17.5,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
