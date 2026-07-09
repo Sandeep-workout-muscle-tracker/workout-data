@@ -663,5 +663,18 @@
       "startedAt": 1783507734075,
       "endedAt": 1783514572971
     }
+  },
+  "library": {
+    "exercises": {
+      "user_ex_mrd3xs643tay": {
+        "id": "user_ex_mrd3xs643tay",
+        "name": "Push Ups",
+        "sub": "triceps",
+        "equip": "bodyweight",
+        "note": "",
+        "secondary": []
+      }
+    },
+    "foods": {}
   }
 }
