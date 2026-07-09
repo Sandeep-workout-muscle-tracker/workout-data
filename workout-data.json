@@ -805,31 +805,6 @@
       "note": ""
     },
     {
-      "id": "mrdm2h7kvj61t",
-      "date": "2026-07-10",
-      "exerciseId": "arm_circles",
-      "sets": [
-        {
-          "weight": 0,
-          "reps": 1
-        },
-        {
-          "weight": 0,
-          "reps": 1
-        },
-        {
-          "weight": 0,
-          "reps": 1
-        },
-        {
-          "weight": 0,
-          "reps": 1
-        }
-      ],
-      "note": "",
-      "durationSec": 19
-    },
-    {
       "id": "mrdm8kw0913vv",
       "date": "2026-07-11",
       "exerciseId": "treadmill_steady",
