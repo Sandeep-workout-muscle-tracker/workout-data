@@ -882,7 +882,9 @@
       "exerciseIds": [
         "arm_circles",
         "cat_cow",
-        "band_pull_aparts"
+        "band_pull_aparts",
+        "treadmill_steady",
+        "outdoor_cycling"
       ]
     }
   },
