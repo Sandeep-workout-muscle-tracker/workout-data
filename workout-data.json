@@ -905,12 +905,7 @@
     "2026-07-10": {
       "title": "test",
       "exerciseIds": [
-        "arm_circles",
-        "cat_cow",
-        "band_pull_aparts",
-        "treadmill_steady",
-        "outdoor_cycling",
-        "chest_doorway"
+        "arm_circles"
       ]
     }
   },
