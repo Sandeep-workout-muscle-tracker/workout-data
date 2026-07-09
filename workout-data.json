@@ -739,6 +739,30 @@
         }
       ],
       "note": "Weights improved"
+    },
+    {
+      "id": "mrdha0hajbqao",
+      "date": "2026-07-09",
+      "exerciseId": "cable_face_pull_mid",
+      "sets": [
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
