@@ -884,7 +884,10 @@
         "cat_cow",
         "band_pull_aparts",
         "treadmill_steady",
-        "outdoor_cycling"
+        "outdoor_cycling",
+        "chest_doorway",
+        "foam_it_band",
+        "box_breathing"
       ]
     }
   },
