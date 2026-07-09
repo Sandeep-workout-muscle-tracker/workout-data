@@ -643,6 +643,26 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mrdeo3esvjwh7",
+      "date": "2026-07-09",
+      "exerciseId": "bench_dip",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": ""
     }
   ],
   "plans": {
