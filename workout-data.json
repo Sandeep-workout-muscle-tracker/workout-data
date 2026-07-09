@@ -880,7 +880,9 @@
     "2026-07-10": {
       "title": "",
       "exerciseIds": [
-        "arm_circles"
+        "arm_circles",
+        "cat_cow",
+        "band_pull_aparts"
       ]
     }
   },
