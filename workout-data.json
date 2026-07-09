@@ -820,6 +820,23 @@
       ],
       "note": "",
       "durationSec": 23
+    },
+    {
+      "id": "mrdlsho1t9wyp",
+      "date": "2026-07-10",
+      "exerciseId": "cat_cow",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 2
+        },
+        {
+          "weight": 0,
+          "reps": 6
+        }
+      ],
+      "note": "",
+      "durationSec": 50
     }
   ],
   "plans": {
