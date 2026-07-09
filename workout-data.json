@@ -871,6 +871,19 @@
       ],
       "note": "",
       "durationSec": 28
+    },
+    {
+      "id": "mrdluwy8mnczi",
+      "date": "2026-07-10",
+      "exerciseId": "outdoor_cycling",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 6
+        }
+      ],
+      "note": "",
+      "durationSec": 46
     }
   ],
   "plans": {
