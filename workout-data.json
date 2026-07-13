@@ -893,7 +893,8 @@
         "pigeon_pose",
         "quad_stretch",
         "childs_pose",
-        "cobra_stretch"
+        "cobra_stretch",
+        "front_squat"
       ]
     }
   },
