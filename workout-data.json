@@ -881,6 +881,7 @@
       "title": "",
       "exerciseIds": [
         "leg_swings",
+        "front_squat",
         "bb_squat",
         "leg_press",
         "leg_extension",
@@ -893,8 +894,7 @@
         "pigeon_pose",
         "quad_stretch",
         "childs_pose",
-        "cobra_stretch",
-        "front_squat"
+        "cobra_stretch"
       ]
     }
   },
