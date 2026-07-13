@@ -883,7 +883,8 @@
         "leg_swings",
         "bb_squat",
         "leg_press",
-        "leg_extension"
+        "leg_extension",
+        "rdl_ham"
       ]
     }
   },
