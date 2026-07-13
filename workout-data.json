@@ -988,6 +988,19 @@
       ],
       "note": "Body weight",
       "durationSec": 391
+    },
+    {
+      "id": "mrj749cwondes",
+      "date": "2026-07-13",
+      "exerciseId": "hamstring_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 7
     }
   ],
   "plans": {
