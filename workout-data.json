@@ -1001,6 +1001,19 @@
       ],
       "note": "",
       "durationSec": 7
+    },
+    {
+      "id": "mrj77ciuaw4ff",
+      "date": "2026-07-13",
+      "exerciseId": "pigeon_pose",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 7
     }
   ],
   "plans": {
