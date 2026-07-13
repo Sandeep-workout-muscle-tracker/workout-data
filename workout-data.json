@@ -967,6 +967,27 @@
       ],
       "note": "Each set having with two legs\n5kg*2=10 kg",
       "durationSec": 411
+    },
+    {
+      "id": "mrj71c81r5adr",
+      "date": "2026-07-13",
+      "exerciseId": "bw_calf_raise",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": "Body weight",
+      "durationSec": 391
     }
   ],
   "plans": {
