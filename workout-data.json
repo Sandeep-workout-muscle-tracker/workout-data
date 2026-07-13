@@ -803,6 +803,23 @@
         }
       ],
       "note": ""
+    },
+    {
+      "id": "mrj3vghazdahh",
+      "date": "2026-07-13",
+      "exerciseId": "leg_swings",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 15
+        },
+        {
+          "weight": 0,
+          "reps": 15
+        }
+      ],
+      "note": "",
+      "durationSec": 25
     }
   ],
   "plans": {
