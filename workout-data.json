@@ -894,8 +894,7 @@
         "hamstring_stretch",
         "pigeon_pose",
         "quad_stretch",
-        "childs_pose",
-        "cobra_stretch"
+        "childs_pose"
       ]
     }
   },
