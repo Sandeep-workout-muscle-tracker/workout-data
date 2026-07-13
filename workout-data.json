@@ -929,6 +929,27 @@
       ],
       "note": "",
       "durationSec": 595
+    },
+    {
+      "id": "mrj6ccewb7e27",
+      "date": "2026-07-13",
+      "exerciseId": "sumo_squat",
+      "sets": [
+        {
+          "weight": 16,
+          "reps": 12
+        },
+        {
+          "weight": 20,
+          "reps": 12
+        },
+        {
+          "weight": 20,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 393
     }
   ],
   "plans": {
