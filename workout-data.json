@@ -876,6 +876,12 @@
       ],
       "warmup": "",
       "cooldown": ""
+    },
+    "2026-07-13": {
+      "title": "",
+      "exerciseIds": [
+        "leg_swings"
+      ]
     }
   },
   "meta": {
