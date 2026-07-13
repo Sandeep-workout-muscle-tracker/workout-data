@@ -881,6 +881,8 @@
       "title": "",
       "exerciseIds": [
         "leg_swings",
+        "hip_circles",
+        "bodyweight_squats_warmup",
         "bb_squat",
         "leg_press",
         "rdl_ham",
@@ -893,9 +895,7 @@
         "pigeon_pose",
         "quad_stretch",
         "childs_pose",
-        "cobra_stretch",
-        "bodyweight_squats_warmup",
-        "hip_circles"
+        "cobra_stretch"
       ]
     }
   },
