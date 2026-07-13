@@ -904,6 +904,31 @@
       ],
       "note": "",
       "durationSec": 601
+    },
+    {
+      "id": "mrj5ubqmftxp7",
+      "date": "2026-07-13",
+      "exerciseId": "rdl_ham",
+      "sets": [
+        {
+          "weight": 30,
+          "reps": 12
+        },
+        {
+          "weight": 40,
+          "reps": 10
+        },
+        {
+          "weight": 50,
+          "reps": 12
+        },
+        {
+          "weight": 60,
+          "reps": 0
+        }
+      ],
+      "note": "",
+      "durationSec": 595
     }
   ],
   "plans": {
@@ -990,8 +1015,8 @@
         "leg_extension",
         "seated_leg_curl",
         "sumo_squat",
-        "bw_calf_raise",
         "bulgarian_split_squat_g",
+        "bw_calf_raise",
         "hamstring_stretch",
         "pigeon_pose",
         "quad_stretch",
