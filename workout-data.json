@@ -850,6 +850,39 @@
       ],
       "note": "",
       "durationSec": 211
+    },
+    {
+      "id": "mrj4vw6noolzz",
+      "date": "2026-07-13",
+      "exerciseId": "bb_squat",
+      "sets": [
+        {
+          "weight": 40,
+          "reps": 8
+        },
+        {
+          "weight": 40,
+          "reps": 8
+        },
+        {
+          "weight": 60,
+          "reps": 5
+        },
+        {
+          "weight": 70,
+          "reps": 5
+        },
+        {
+          "weight": 80,
+          "reps": 2
+        },
+        {
+          "weight": 80,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 1307
     }
   ],
   "plans": {
