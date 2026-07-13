@@ -885,7 +885,8 @@
         "leg_press",
         "leg_extension",
         "rdl_ham",
-        "seated_leg_curl"
+        "seated_leg_curl",
+        "bw_calf_raise"
       ]
     }
   },
