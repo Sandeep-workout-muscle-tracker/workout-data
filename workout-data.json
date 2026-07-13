@@ -833,6 +833,23 @@
       ],
       "note": "",
       "durationSec": 69
+    },
+    {
+      "id": "mrj41qeq5hofd",
+      "date": "2026-07-13",
+      "exerciseId": "bodyweight_squats_warmup",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 211
     }
   ],
   "plans": {
