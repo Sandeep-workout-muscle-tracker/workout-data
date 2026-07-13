@@ -1027,6 +1027,19 @@
       ],
       "note": "",
       "durationSec": 4
+    },
+    {
+      "id": "mrj7d8fqk7epp",
+      "date": "2026-07-13",
+      "exerciseId": "calf_wall_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 4
     }
   ],
   "plans": {
