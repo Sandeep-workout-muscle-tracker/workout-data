@@ -882,7 +882,8 @@
       "exerciseIds": [
         "leg_swings",
         "bb_squat",
-        "leg_press"
+        "leg_press",
+        "leg_extension"
       ]
     }
   },
