@@ -883,6 +883,27 @@
       ],
       "note": "",
       "durationSec": 1307
+    },
+    {
+      "id": "mrj5cliqbk5xg",
+      "date": "2026-07-13",
+      "exerciseId": "leg_press",
+      "sets": [
+        {
+          "weight": 40,
+          "reps": 12
+        },
+        {
+          "weight": 60,
+          "reps": 12
+        },
+        {
+          "weight": 80,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 601
     }
   ],
   "plans": {
