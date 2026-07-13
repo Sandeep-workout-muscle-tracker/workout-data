@@ -1014,6 +1014,19 @@
       ],
       "note": "",
       "durationSec": 7
+    },
+    {
+      "id": "mrj7d4ml5cqk3",
+      "date": "2026-07-13",
+      "exerciseId": "quad_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 4
     }
   ],
   "plans": {
