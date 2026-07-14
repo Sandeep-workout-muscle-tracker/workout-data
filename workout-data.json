@@ -1099,6 +1099,31 @@
       ],
       "note": "",
       "durationSec": 738
+    },
+    {
+      "id": "mrkkllcxg95rt",
+      "date": "2026-07-14",
+      "exerciseId": "inc_db_press",
+      "sets": [
+        {
+          "weight": 12.5,
+          "reps": 12
+        },
+        {
+          "weight": 12.5,
+          "reps": 10
+        },
+        {
+          "weight": 10,
+          "reps": 12
+        },
+        {
+          "weight": 10,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 581
     }
   ],
   "plans": {
