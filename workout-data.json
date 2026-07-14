@@ -1053,6 +1053,27 @@
       ],
       "note": "",
       "durationSec": 229
+    },
+    {
+      "id": "mrkjkyzyau76s",
+      "date": "2026-07-14",
+      "exerciseId": "pushup",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 20
+        },
+        {
+          "weight": 0,
+          "reps": 10
+        },
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 343
     }
   ],
   "plans": {
