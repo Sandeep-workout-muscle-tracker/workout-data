@@ -1124,6 +1124,31 @@
       ],
       "note": "",
       "durationSec": 581
+    },
+    {
+      "id": "mrkl4qup1w48n",
+      "date": "2026-07-14",
+      "exerciseId": "pec_deck",
+      "sets": [
+        {
+          "weight": 59,
+          "reps": 12
+        },
+        {
+          "weight": 52,
+          "reps": 12
+        },
+        {
+          "weight": 52,
+          "reps": 10
+        },
+        {
+          "weight": 45,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 455
     }
   ],
   "plans": {
