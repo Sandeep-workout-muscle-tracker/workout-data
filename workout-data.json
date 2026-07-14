@@ -1137,7 +1137,8 @@
       "exerciseIds": [
         "band_chest_pulls",
         "pushup",
-        "flat_bb_press"
+        "flat_bb_press",
+        "inc_db_press"
       ]
     }
   },
