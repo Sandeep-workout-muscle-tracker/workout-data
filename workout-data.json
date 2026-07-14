@@ -1170,6 +1170,31 @@
       ],
       "note": "",
       "durationSec": 235
+    },
+    {
+      "id": "mrklyy9ehk1u0",
+      "date": "2026-07-14",
+      "exerciseId": "cable_curl",
+      "sets": [
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        },
+        {
+          "weight": 13.6,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 277
     }
   ],
   "plans": {
