@@ -1134,7 +1134,9 @@
     },
     "2026-07-14": {
       "title": "Chest & Biceps",
-      "exerciseIds": []
+      "exerciseIds": [
+        "band_chest_pulls"
+      ]
     }
   },
   "meta": {
