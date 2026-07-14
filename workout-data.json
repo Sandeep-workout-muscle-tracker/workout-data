@@ -1249,11 +1249,11 @@
         "flat_bb_press",
         "inc_db_press",
         "pec_deck",
+        "dec_db_press",
         "cable_curl",
         "hammer_curl",
         "lying_chest_stretch",
-        "biceps_wall_stretch",
-        "dec_db_press"
+        "biceps_wall_stretch"
       ]
     }
   },
