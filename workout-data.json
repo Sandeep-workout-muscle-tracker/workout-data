@@ -1074,6 +1074,31 @@
       ],
       "note": "",
       "durationSec": 343
+    },
+    {
+      "id": "mrkk5b2ovivyf",
+      "date": "2026-07-14",
+      "exerciseId": "flat_bb_press",
+      "sets": [
+        {
+          "weight": 30,
+          "reps": 12
+        },
+        {
+          "weight": 35,
+          "reps": 12
+        },
+        {
+          "weight": 35,
+          "reps": 12
+        },
+        {
+          "weight": 40,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 738
     }
   ],
   "plans": {
