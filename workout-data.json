@@ -1135,7 +1135,8 @@
     "2026-07-14": {
       "title": "Chest & Biceps",
       "exerciseIds": [
-        "band_chest_pulls"
+        "band_chest_pulls",
+        "pushup"
       ]
     }
   },
