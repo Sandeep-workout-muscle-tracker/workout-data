@@ -1136,7 +1136,8 @@
       "title": "Chest & Biceps",
       "exerciseIds": [
         "band_chest_pulls",
-        "pushup"
+        "pushup",
+        "flat_bb_press"
       ]
     }
   },
