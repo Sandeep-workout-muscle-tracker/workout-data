@@ -1149,6 +1149,27 @@
       ],
       "note": "",
       "durationSec": 455
+    },
+    {
+      "id": "mrklmk8ixvnqw",
+      "date": "2026-07-14",
+      "exerciseId": "dec_db_press",
+      "sets": [
+        {
+          "weight": 7.5,
+          "reps": 12
+        },
+        {
+          "weight": 7.5,
+          "reps": 12
+        },
+        {
+          "weight": 7.5,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 235
     }
   ],
   "plans": {
