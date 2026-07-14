@@ -1216,6 +1216,19 @@
       ],
       "note": "",
       "durationSec": 594
+    },
+    {
+      "id": "mrkmlcb9r8y25",
+      "date": "2026-07-14",
+      "exerciseId": "lying_chest_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 3
     }
   ],
   "plans": {
