@@ -1040,6 +1040,19 @@
       ],
       "note": "",
       "durationSec": 4
+    },
+    {
+      "id": "mrkjdj25o3q14",
+      "date": "2026-07-14",
+      "exerciseId": "band_chest_pulls",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 229
     }
   ],
   "plans": {
