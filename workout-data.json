@@ -1349,10 +1349,20 @@
         "biceps_wall_stretch"
       ]
     },
-    "2026-07-15": {
+    "2026-07-16": {
       "title": "",
       "exerciseIds": [
-        "bb_ohp"
+        "arm_circles",
+        "shoulder_dislocates",
+        "scap_pushups",
+        "wall_slides",
+        "db_ohp",
+        "db_front_raise",
+        "db_lat_raise",
+        "reverse_pec_deck_rd",
+        "cable_face_pull_rd",
+        "wrist_curl",
+        "cross_body_shoulder"
       ]
     }
   },
@@ -1388,14 +1398,6 @@
         "name": "Push Ups",
         "sub": "triceps",
         "equip": "bodyweight",
-        "note": "",
-        "secondary": []
-      },
-      "user_ex_mrmay6c7er4z": {
-        "id": "user_ex_mrmay6c7er4z",
-        "name": "Reverse Curl",
-        "sub": "forearms",
-        "equip": "dumbbell",
         "note": "",
         "secondary": []
       }
