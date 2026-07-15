@@ -1402,6 +1402,14 @@
         "equip": "bodyweight",
         "note": "",
         "secondary": []
+      },
+      "user_ex_mrmb4oe9ssqo": {
+        "id": "user_ex_mrmb4oe9ssqo",
+        "name": "Reverse Curl",
+        "sub": "forearms",
+        "equip": "dumbbell",
+        "note": "",
+        "secondary": []
       }
     },
     "foods": {}
