@@ -1355,7 +1355,8 @@
         "arm_circles",
         "shoulder_dislocates",
         "scap_pushups",
-        "wall_slides"
+        "wall_slides",
+        "db_ohp"
       ]
     }
   },
