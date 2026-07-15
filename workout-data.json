@@ -1357,7 +1357,8 @@
         "scap_pushups",
         "wall_slides",
         "db_ohp",
-        "db_front_raise"
+        "db_front_raise",
+        "db_lat_raise"
       ]
     }
   },
