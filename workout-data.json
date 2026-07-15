@@ -1360,7 +1360,8 @@
         "db_front_raise",
         "db_lat_raise",
         "reverse_pec_deck_rd",
-        "cable_face_pull_rd"
+        "cable_face_pull_rd",
+        "wrist_curl"
       ]
     }
   },
