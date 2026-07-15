@@ -1348,6 +1348,12 @@
         "lying_chest_stretch",
         "biceps_wall_stretch"
       ]
+    },
+    "2026-07-16": {
+      "title": "",
+      "exerciseIds": [
+        "arm_circles"
+      ]
     }
   },
   "meta": {
