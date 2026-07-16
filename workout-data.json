@@ -1323,6 +1323,31 @@
       ],
       "note": "",
       "durationSec": 1004
+    },
+    {
+      "id": "mrnfw0vrhrcyh",
+      "date": "2026-07-16",
+      "exerciseId": "db_lat_raise",
+      "sets": [
+        {
+          "weight": 10,
+          "reps": 8
+        },
+        {
+          "weight": 7.5,
+          "reps": 12
+        },
+        {
+          "weight": 7.5,
+          "reps": 10
+        },
+        {
+          "weight": 5,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 473
     }
   ],
   "plans": {
