@@ -1242,6 +1242,23 @@
       ],
       "note": "",
       "durationSec": 7
+    },
+    {
+      "id": "mrnemanhkhqdy",
+      "date": "2026-07-16",
+      "exerciseId": "arm_circles",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        },
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 139
     }
   ],
   "plans": {
