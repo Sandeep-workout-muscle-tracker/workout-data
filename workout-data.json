@@ -1487,6 +1487,19 @@
       ],
       "note": "",
       "durationSec": 3
+    },
+    {
+      "id": "mrnhxfwn8fqb9",
+      "date": "2026-07-16",
+      "exerciseId": "sleeper_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 4
     }
   ],
   "plans": {
