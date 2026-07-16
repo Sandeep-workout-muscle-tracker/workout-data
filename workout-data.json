@@ -1398,6 +1398,27 @@
       ],
       "note": "",
       "durationSec": 658
+    },
+    {
+      "id": "mrnh4uqeh1ou5",
+      "date": "2026-07-16",
+      "exerciseId": "cable_face_pull_rd",
+      "sets": [
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 15.9,
+          "reps": 10
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 244
     }
   ],
   "plans": {
