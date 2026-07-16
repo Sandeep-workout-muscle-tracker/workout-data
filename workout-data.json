@@ -1272,6 +1272,19 @@
       ],
       "note": "",
       "durationSec": 88
+    },
+    {
+      "id": "mrnepj5z3y26d",
+      "date": "2026-07-16",
+      "exerciseId": "scap_pushups",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 54
     }
   ],
   "plans": {
