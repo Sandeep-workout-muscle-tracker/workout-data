@@ -1461,6 +1461,19 @@
       ],
       "note": "",
       "durationSec": 316
+    },
+    {
+      "id": "mrnhrctbnuwm6",
+      "date": "2026-07-16",
+      "exerciseId": "cross_body_shoulder",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 121
     }
   ],
   "plans": {
