@@ -1500,19 +1500,6 @@
       ],
       "note": "",
       "durationSec": 4
-    },
-    {
-      "id": "mrnmgkhdgv575",
-      "date": "2026-07-17",
-      "exerciseId": "deadlift",
-      "sets": [
-        {
-          "weight": 100,
-          "reps": 10
-        }
-      ],
-      "note": "",
-      "durationSec": 61
     }
   ],
   "plans": {
