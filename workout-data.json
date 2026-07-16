@@ -1298,6 +1298,31 @@
       ],
       "note": "",
       "durationSec": 121
+    },
+    {
+      "id": "mrnfhykrz0uof",
+      "date": "2026-07-16",
+      "exerciseId": "db_ohp",
+      "sets": [
+        {
+          "weight": 12.5,
+          "reps": 12
+        },
+        {
+          "weight": 12.5,
+          "reps": 10
+        },
+        {
+          "weight": 10,
+          "reps": 12
+        },
+        {
+          "weight": 10,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 1004
     }
   ],
   "plans": {
