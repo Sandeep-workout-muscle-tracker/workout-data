@@ -1419,6 +1419,27 @@
       ],
       "note": "",
       "durationSec": 244
+    },
+    {
+      "id": "mrnhf36d2nkf0",
+      "date": "2026-07-16",
+      "exerciseId": "wrist_curl",
+      "sets": [
+        {
+          "weight": 10,
+          "reps": 15
+        },
+        {
+          "weight": 15,
+          "reps": 12
+        },
+        {
+          "weight": 15,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 321
     }
   ],
   "plans": {
