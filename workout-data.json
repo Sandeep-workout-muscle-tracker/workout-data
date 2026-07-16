@@ -1259,6 +1259,19 @@
       ],
       "note": "",
       "durationSec": 139
+    },
+    {
+      "id": "mrneob6um6u8v",
+      "date": "2026-07-16",
+      "exerciseId": "shoulder_dislocates",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 17
+        }
+      ],
+      "note": "",
+      "durationSec": 88
     }
   ],
   "plans": {
