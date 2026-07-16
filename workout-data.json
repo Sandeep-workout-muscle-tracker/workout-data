@@ -1440,6 +1440,27 @@
       ],
       "note": "",
       "durationSec": 321
+    },
+    {
+      "id": "mrnhoef66l9q4",
+      "date": "2026-07-16",
+      "exerciseId": "reverse_curl",
+      "sets": [
+        {
+          "weight": 15,
+          "reps": 12
+        },
+        {
+          "weight": 10,
+          "reps": 12
+        },
+        {
+          "weight": 10,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 316
     }
   ],
   "plans": {
