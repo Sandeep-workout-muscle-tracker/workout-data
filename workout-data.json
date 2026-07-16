@@ -1348,6 +1348,31 @@
       ],
       "note": "",
       "durationSec": 473
+    },
+    {
+      "id": "mrng9brxi9eit",
+      "date": "2026-07-16",
+      "exerciseId": "db_front_raise",
+      "sets": [
+        {
+          "weight": 7.5,
+          "reps": 10
+        },
+        {
+          "weight": 7.5,
+          "reps": 10
+        },
+        {
+          "weight": 5,
+          "reps": 12
+        },
+        {
+          "weight": 5,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 550
     }
   ],
   "plans": {
