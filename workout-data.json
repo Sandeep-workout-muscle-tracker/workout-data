@@ -1625,6 +1625,12 @@
         "sleeper_stretch",
         "reverse_curl"
       ]
+    },
+    "2026-07-17": {
+      "title": "",
+      "exerciseIds": [
+        "deadlift"
+      ]
     }
   },
   "meta": {
@@ -1654,6 +1660,10 @@
     "2026-07-16": {
       "startedAt": 1784199866834,
       "endedAt": 1784205579732
+    },
+    "2026-07-17": {
+      "startedAt": 1784213267424,
+      "endedAt": null
     }
   },
   "library": {
