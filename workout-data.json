@@ -1285,6 +1285,19 @@
       ],
       "note": "",
       "durationSec": 54
+    },
+    {
+      "id": "mrnes96ngt30u",
+      "date": "2026-07-16",
+      "exerciseId": "wall_slides",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 121
     }
   ],
   "plans": {
