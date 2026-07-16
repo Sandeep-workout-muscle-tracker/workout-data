@@ -1373,6 +1373,31 @@
       ],
       "note": "",
       "durationSec": 550
+    },
+    {
+      "id": "mrngtxlpdrkbd",
+      "date": "2026-07-16",
+      "exerciseId": "reverse_pec_deck_rd",
+      "sets": [
+        {
+          "weight": 52,
+          "reps": 12
+        },
+        {
+          "weight": 52,
+          "reps": 12
+        },
+        {
+          "weight": 45,
+          "reps": 12
+        },
+        {
+          "weight": 45,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 658
     }
   ],
   "plans": {
