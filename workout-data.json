@@ -1517,6 +1517,23 @@
       ],
       "note": "",
       "durationSec": 46
+    },
+    {
+      "id": "mrnmjo8xtsoip",
+      "date": "2026-07-17",
+      "exerciseId": "pullup",
+      "sets": [
+        {
+          "weight": 70,
+          "reps": 22
+        },
+        {
+          "weight": 70,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 25
     }
   ],
   "plans": {
