@@ -1474,6 +1474,19 @@
       ],
       "note": "",
       "durationSec": 121
+    },
+    {
+      "id": "mrnhrg8fefsc2",
+      "date": "2026-07-16",
+      "exerciseId": "shoulder_rolls",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 3
     }
   ],
   "plans": {
