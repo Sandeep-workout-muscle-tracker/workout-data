@@ -1628,7 +1628,9 @@
     },
     "2026-07-17": {
       "title": "Back & Triceps",
-      "exerciseIds": []
+      "exerciseIds": [
+        "cat_cow"
+      ]
     }
   },
   "meta": {
