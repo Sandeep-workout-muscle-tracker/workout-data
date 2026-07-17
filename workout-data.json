@@ -1644,7 +1644,8 @@
         "triceps_overhead",
         "cat_cow",
         "band_pull_aparts",
-        "thoracic_rotations"
+        "thoracic_rotations",
+        "scap_pulls"
       ]
     }
   },
