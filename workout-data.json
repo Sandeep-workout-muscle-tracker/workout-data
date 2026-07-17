@@ -1633,10 +1633,10 @@
         "db_oh_ext",
         "bench_dip",
         "deadlift",
+        "lat_pulldown",
         "seated_cable_row",
         "reverse_pec_deck",
         "cable_face_pull_mid",
-        "lat_pulldown",
         "db_shrug",
         "hyperextension"
       ]
