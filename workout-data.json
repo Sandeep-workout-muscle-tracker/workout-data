@@ -1634,7 +1634,8 @@
         "bench_dip",
         "deadlift",
         "seated_cable_row",
-        "bb_shrug"
+        "bb_shrug",
+        "face_pull_traps"
       ]
     }
   },
