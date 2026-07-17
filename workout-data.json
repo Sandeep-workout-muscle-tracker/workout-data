@@ -1637,8 +1637,8 @@
         "seated_cable_row",
         "reverse_pec_deck",
         "cable_face_pull_mid",
-        "db_shrug",
-        "hyperextension"
+        "hyperextension",
+        "db_shrug"
       ]
     }
   },
