@@ -1739,6 +1739,27 @@
       ],
       "note": "",
       "durationSec": 270
+    },
+    {
+      "id": "mrq1jmt7qipfm",
+      "date": "2026-07-18",
+      "exerciseId": "db_shrug",
+      "sets": [
+        {
+          "weight": 17.5,
+          "reps": 12
+        },
+        {
+          "weight": 17.5,
+          "reps": 12
+        },
+        {
+          "weight": 17.5,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 261
     }
   ],
   "plans": {
