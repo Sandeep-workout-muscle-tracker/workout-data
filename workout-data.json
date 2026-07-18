@@ -827,7 +827,8 @@
         }
       ],
       "note": "",
-      "durationSec": 25
+      "durationSec": 25,
+      "session": "evening"
     },
     {
       "id": "mrj3x1vq9togs",
@@ -840,7 +841,8 @@
         }
       ],
       "note": "",
-      "durationSec": 69
+      "durationSec": 69,
+      "session": "evening"
     },
     {
       "id": "mrj41qeq5hofd",
@@ -857,7 +859,8 @@
         }
       ],
       "note": "",
-      "durationSec": 211
+      "durationSec": 211,
+      "session": "evening"
     },
     {
       "id": "mrj4vw6noolzz",
@@ -890,7 +893,8 @@
         }
       ],
       "note": "",
-      "durationSec": 1307
+      "durationSec": 1307,
+      "session": "evening"
     },
     {
       "id": "mrj5cliqbk5xg",
@@ -911,7 +915,8 @@
         }
       ],
       "note": "",
-      "durationSec": 601
+      "durationSec": 601,
+      "session": "evening"
     },
     {
       "id": "mrj5ubqmftxp7",
@@ -936,7 +941,8 @@
         }
       ],
       "note": "",
-      "durationSec": 595
+      "durationSec": 595,
+      "session": "evening"
     },
     {
       "id": "mrj6ccewb7e27",
@@ -957,7 +963,8 @@
         }
       ],
       "note": "",
-      "durationSec": 393
+      "durationSec": 393,
+      "session": "evening"
     },
     {
       "id": "mrj6rpticn9d4",
@@ -974,7 +981,8 @@
         }
       ],
       "note": "Each set having with two legs\n5kg*2=10 kg",
-      "durationSec": 411
+      "durationSec": 411,
+      "session": "evening"
     },
     {
       "id": "mrj71c81r5adr",
@@ -995,7 +1003,8 @@
         }
       ],
       "note": "Body weight",
-      "durationSec": 391
+      "durationSec": 391,
+      "session": "evening"
     },
     {
       "id": "mrj749cwondes",
@@ -1008,7 +1017,8 @@
         }
       ],
       "note": "",
-      "durationSec": 7
+      "durationSec": 7,
+      "session": "evening"
     },
     {
       "id": "mrj77ciuaw4ff",
@@ -1021,7 +1031,8 @@
         }
       ],
       "note": "",
-      "durationSec": 7
+      "durationSec": 7,
+      "session": "evening"
     },
     {
       "id": "mrj7d4ml5cqk3",
@@ -1034,7 +1045,8 @@
         }
       ],
       "note": "",
-      "durationSec": 4
+      "durationSec": 4,
+      "session": "evening"
     },
     {
       "id": "mrj7d8fqk7epp",
@@ -1047,7 +1059,8 @@
         }
       ],
       "note": "",
-      "durationSec": 4
+      "durationSec": 4,
+      "session": "evening"
     },
     {
       "id": "mrkjdj25o3q14",
@@ -1920,21 +1933,34 @@
     },
     "2026-07-13": {
       "title": "Legs",
-      "exerciseIds": [
-        "leg_swings",
-        "hip_circles",
-        "bodyweight_squats_warmup",
-        "bb_squat",
-        "leg_press",
-        "rdl_ham",
-        "sumo_squat",
-        "bulgarian_split_squat_g",
-        "bw_calf_raise",
-        "hamstring_stretch",
-        "pigeon_pose",
-        "quad_stretch",
-        "calf_wall_stretch"
-      ]
+      "sessions": {
+        "morning": {
+          "exerciseIds": []
+        },
+        "afternoon": {
+          "exerciseIds": []
+        },
+        "evening": {
+          "exerciseIds": [
+            "leg_swings",
+            "hip_circles",
+            "bodyweight_squats_warmup",
+            "bb_squat",
+            "leg_press",
+            "rdl_ham",
+            "sumo_squat",
+            "bulgarian_split_squat_g",
+            "bw_calf_raise",
+            "hamstring_stretch",
+            "pigeon_pose",
+            "quad_stretch",
+            "calf_wall_stretch"
+          ]
+        },
+        "night": {
+          "exerciseIds": []
+        }
+      }
     },
     "2026-07-14": {
       "title": "Chest & Biceps",
@@ -2099,8 +2125,10 @@
       "endedAt": 1783600857489
     },
     "2026-07-13": {
-      "startedAt": 1783939746669,
-      "endedAt": 1783945974455
+      "evening": {
+        "startedAt": 1783939746669,
+        "endedAt": 1783945974455
+      }
     },
     "2026-07-14": {
       "evening": {
