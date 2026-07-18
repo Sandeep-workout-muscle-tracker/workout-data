@@ -1564,6 +1564,31 @@
       ],
       "note": "",
       "durationSec": 279
+    },
+    {
+      "id": "mrpyl1hscxvvf",
+      "date": "2026-07-18",
+      "exerciseId": "cable_pushdown",
+      "sets": [
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 15.9,
+          "reps": 10
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        },
+        {
+          "weight": 13.6,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 432
     }
   ],
   "plans": {
