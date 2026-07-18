@@ -1760,6 +1760,19 @@
       ],
       "note": "",
       "durationSec": 261
+    },
+    {
+      "id": "mrq1nxm1o0qa0",
+      "date": "2026-07-18",
+      "exerciseId": "cobra_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 110
     }
   ],
   "plans": {
