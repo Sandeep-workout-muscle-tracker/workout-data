@@ -1944,6 +1944,22 @@
         "knee_to_chest",
         "triceps_overhead"
       ]
+    },
+    "2026-07-19": {
+      "title": "",
+      "sessions": {
+        "morning": {
+          "exerciseIds": [
+            "leg_swings"
+          ]
+        },
+        "afternoon": {
+          "exerciseIds": []
+        },
+        "evening": {
+          "exerciseIds": []
+        }
+      }
     }
   },
   "meta": {
