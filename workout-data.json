@@ -1543,6 +1543,27 @@
       ],
       "note": "",
       "durationSec": 144
+    },
+    {
+      "id": "mrpya5zxfriog",
+      "date": "2026-07-18",
+      "exerciseId": "scap_pulls",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 5
+        },
+        {
+          "weight": 0,
+          "reps": 5
+        },
+        {
+          "weight": 0,
+          "reps": 5
+        }
+      ],
+      "note": "",
+      "durationSec": 279
     }
   ],
   "plans": {
