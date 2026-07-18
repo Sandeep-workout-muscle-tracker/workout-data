@@ -154,7 +154,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mr9601skqo8on",
@@ -178,7 +179,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mr96dxtgfkpz8",
@@ -202,7 +204,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mr96r0sjxsf6z",
@@ -218,7 +221,8 @@
           "reps": 10
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mra00422mm6mw",
@@ -242,7 +246,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mra00zcytwczh",
@@ -266,7 +271,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mra06k2qjw5qg",
@@ -290,7 +296,8 @@
           "reps": 8
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mra082ahpsytx",
@@ -310,7 +317,8 @@
           "reps": 10
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mrajs76egslv6",
@@ -1804,18 +1812,31 @@
   "plans": {
     "2026-07-06": {
       "title": "Chest & Biceps",
-      "exerciseIds": [
-        "inc_db_press",
-        "pec_deck",
-        "high_low_cable_fly",
-        "flat_bb_press",
-        "pushup",
-        "hammer_curl",
-        "cable_curl",
-        "concentration_curl"
-      ],
       "warmup": "",
-      "cooldown": ""
+      "cooldown": "",
+      "sessions": {
+        "morning": {
+          "exerciseIds": []
+        },
+        "afternoon": {
+          "exerciseIds": []
+        },
+        "evening": {
+          "exerciseIds": [
+            "inc_db_press",
+            "pec_deck",
+            "high_low_cable_fly",
+            "flat_bb_press",
+            "pushup",
+            "hammer_curl",
+            "cable_curl",
+            "concentration_curl"
+          ]
+        },
+        "night": {
+          "exerciseIds": []
+        }
+      }
     },
     "2026-07-05": {
       "title": "Back & Triceps",
