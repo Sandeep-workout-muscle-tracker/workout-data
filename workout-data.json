@@ -1614,6 +1614,31 @@
       ],
       "note": "",
       "durationSec": 144
+    },
+    {
+      "id": "mrpzik0gd7dp4",
+      "date": "2026-07-18",
+      "exerciseId": "lat_pulldown",
+      "sets": [
+        {
+          "weight": 47.3,
+          "reps": 12
+        },
+        {
+          "weight": 39.3,
+          "reps": 12
+        },
+        {
+          "weight": 39.3,
+          "reps": 10
+        },
+        {
+          "weight": 32,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 597
     }
   ],
   "plans": {
