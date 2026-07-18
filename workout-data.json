@@ -1526,6 +1526,23 @@
       ],
       "note": "",
       "durationSec": 80
+    },
+    {
+      "id": "mrpy3ma7o78v7",
+      "date": "2026-07-18",
+      "exerciseId": "thoracic_rotations",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        },
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 144
     }
   ],
   "plans": {
