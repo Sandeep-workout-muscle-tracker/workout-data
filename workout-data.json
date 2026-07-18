@@ -1997,7 +1997,18 @@
     "2026-07-20": {
       "sessions": {
         "morning": {
-          "exerciseIds": []
+          "exerciseIds": [
+            "band_chest_pulls",
+            "pushup",
+            "flat_bb_press",
+            "inc_db_press",
+            "pec_deck",
+            "dec_db_press",
+            "cable_curl",
+            "hammer_curl",
+            "lying_chest_stretch",
+            "biceps_wall_stretch"
+          ]
         },
         "afternoon": {
           "exerciseIds": []
