@@ -1668,6 +1668,31 @@
       ],
       "note": "",
       "durationSec": 1166
+    },
+    {
+      "id": "mrq0s98pbeuzn",
+      "date": "2026-07-18",
+      "exerciseId": "seated_cable_row",
+      "sets": [
+        {
+          "weight": 43,
+          "reps": 10
+        },
+        {
+          "weight": 36,
+          "reps": 12
+        },
+        {
+          "weight": 36,
+          "reps": 10
+        },
+        {
+          "weight": 29,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 572
     }
   ],
   "plans": {
