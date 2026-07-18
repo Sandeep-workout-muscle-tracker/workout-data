@@ -1693,6 +1693,31 @@
       ],
       "note": "",
       "durationSec": 572
+    },
+    {
+      "id": "mrq15ca6s25rd",
+      "date": "2026-07-18",
+      "exerciseId": "cable_face_pull_mid",
+      "sets": [
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 459
     }
   ],
   "plans": {
