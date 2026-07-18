@@ -1950,7 +1950,8 @@
       "sessions": {
         "morning": {
           "exerciseIds": [
-            "leg_swings"
+            "leg_swings",
+            "hip_circles"
           ]
         },
         "afternoon": {
