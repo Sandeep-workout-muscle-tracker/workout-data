@@ -1757,7 +1757,8 @@
         "cat_cow",
         "band_pull_aparts",
         "thoracic_rotations",
-        "scap_pulls"
+        "scap_pulls",
+        "deadlift"
       ]
     }
   },
