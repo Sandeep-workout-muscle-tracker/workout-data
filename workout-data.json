@@ -1500,6 +1500,19 @@
       ],
       "note": "",
       "durationSec": 4
+    },
+    {
+      "id": "mrpxxkrfthopx",
+      "date": "2026-07-18",
+      "exerciseId": "band_pull_aparts",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 99
     }
   ],
   "plans": {
