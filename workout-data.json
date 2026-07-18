@@ -1718,6 +1718,27 @@
       ],
       "note": "",
       "durationSec": 459
+    },
+    {
+      "id": "mrq1c1omixf09",
+      "date": "2026-07-18",
+      "exerciseId": "hyperextension",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 270
     }
   ],
   "plans": {
