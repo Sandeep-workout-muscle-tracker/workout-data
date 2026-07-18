@@ -1773,6 +1773,19 @@
       ],
       "note": "",
       "durationSec": 110
+    },
+    {
+      "id": "mrq1qltegain8",
+      "date": "2026-07-18",
+      "exerciseId": "knee_to_chest",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 89
     }
   ],
   "plans": {
