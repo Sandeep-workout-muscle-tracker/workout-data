@@ -1266,7 +1266,8 @@
         }
       ],
       "note": "",
-      "durationSec": 139
+      "durationSec": 139,
+      "session": "evening"
     },
     {
       "id": "mrneob6um6u8v",
@@ -1279,7 +1280,8 @@
         }
       ],
       "note": "",
-      "durationSec": 88
+      "durationSec": 88,
+      "session": "evening"
     },
     {
       "id": "mrnepj5z3y26d",
@@ -1292,7 +1294,8 @@
         }
       ],
       "note": "",
-      "durationSec": 54
+      "durationSec": 54,
+      "session": "evening"
     },
     {
       "id": "mrnes96ngt30u",
@@ -1305,7 +1308,8 @@
         }
       ],
       "note": "",
-      "durationSec": 121
+      "durationSec": 121,
+      "session": "evening"
     },
     {
       "id": "mrnfhykrz0uof",
@@ -1330,7 +1334,8 @@
         }
       ],
       "note": "",
-      "durationSec": 1004
+      "durationSec": 1004,
+      "session": "evening"
     },
     {
       "id": "mrnfw0vrhrcyh",
@@ -1355,7 +1360,8 @@
         }
       ],
       "note": "",
-      "durationSec": 473
+      "durationSec": 473,
+      "session": "evening"
     },
     {
       "id": "mrng9brxi9eit",
@@ -1380,7 +1386,8 @@
         }
       ],
       "note": "",
-      "durationSec": 550
+      "durationSec": 550,
+      "session": "evening"
     },
     {
       "id": "mrngtxlpdrkbd",
@@ -1405,7 +1412,8 @@
         }
       ],
       "note": "",
-      "durationSec": 658
+      "durationSec": 658,
+      "session": "evening"
     },
     {
       "id": "mrnh4uqeh1ou5",
@@ -1426,7 +1434,8 @@
         }
       ],
       "note": "",
-      "durationSec": 244
+      "durationSec": 244,
+      "session": "evening"
     },
     {
       "id": "mrnhf36d2nkf0",
@@ -1447,7 +1456,8 @@
         }
       ],
       "note": "",
-      "durationSec": 321
+      "durationSec": 321,
+      "session": "evening"
     },
     {
       "id": "mrnhoef66l9q4",
@@ -1468,7 +1478,8 @@
         }
       ],
       "note": "",
-      "durationSec": 316
+      "durationSec": 316,
+      "session": "evening"
     },
     {
       "id": "mrnhrctbnuwm6",
@@ -1481,7 +1492,8 @@
         }
       ],
       "note": "",
-      "durationSec": 121
+      "durationSec": 121,
+      "session": "evening"
     },
     {
       "id": "mrnhrg8fefsc2",
@@ -1494,7 +1506,8 @@
         }
       ],
       "note": "",
-      "durationSec": 3
+      "durationSec": 3,
+      "session": "evening"
     },
     {
       "id": "mrnhxfwn8fqb9",
@@ -1507,7 +1520,8 @@
         }
       ],
       "note": "",
-      "durationSec": 4
+      "durationSec": 4,
+      "session": "evening"
     },
     {
       "id": "mrpxxkrfthopx",
@@ -1929,22 +1943,35 @@
     },
     "2026-07-16": {
       "title": "Shoulder & Forearm",
-      "exerciseIds": [
-        "arm_circles",
-        "shoulder_dislocates",
-        "scap_pushups",
-        "wall_slides",
-        "db_ohp",
-        "db_front_raise",
-        "db_lat_raise",
-        "reverse_pec_deck_rd",
-        "cable_face_pull_rd",
-        "wrist_curl",
-        "cross_body_shoulder",
-        "shoulder_rolls",
-        "sleeper_stretch",
-        "reverse_curl"
-      ]
+      "sessions": {
+        "morning": {
+          "exerciseIds": []
+        },
+        "afternoon": {
+          "exerciseIds": []
+        },
+        "evening": {
+          "exerciseIds": [
+            "arm_circles",
+            "shoulder_dislocates",
+            "scap_pushups",
+            "wall_slides",
+            "db_ohp",
+            "db_front_raise",
+            "db_lat_raise",
+            "reverse_pec_deck_rd",
+            "cable_face_pull_rd",
+            "wrist_curl",
+            "cross_body_shoulder",
+            "shoulder_rolls",
+            "sleeper_stretch",
+            "reverse_curl"
+          ]
+        },
+        "night": {
+          "exerciseIds": []
+        }
+      }
     },
     "2026-07-18": {
       "title": "Back & Triceps",
@@ -2057,8 +2084,10 @@
       "endedAt": 1784032021337
     },
     "2026-07-16": {
-      "startedAt": 1784199866834,
-      "endedAt": 1784205579732
+      "evening": {
+        "startedAt": 1784199866834,
+        "endedAt": 1784205579732
+      }
     },
     "2026-07-18": {
       "startedAt": 1784353061336,
