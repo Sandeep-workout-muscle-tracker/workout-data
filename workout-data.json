@@ -338,7 +338,8 @@
           "reps": 5
         }
       ],
-      "note": "Did this workout without wearing belt"
+      "note": "Did this workout without wearing belt",
+      "session": "evening"
     },
     {
       "id": "mrak9yeuommxq",
@@ -362,7 +363,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mrakz0k59t8bg",
@@ -382,7 +384,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mralqg0gylc73",
@@ -402,7 +405,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mram920uc7brk",
@@ -422,7 +426,8 @@
           "reps": 15
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mrambxed7iy5v",
@@ -442,7 +447,8 @@
           "reps": 20
         }
       ],
-      "note": "Did these workout with body weight"
+      "note": "Did these workout with body weight",
+      "session": "evening"
     },
     {
       "id": "mrbznhhyj4w04",
@@ -1906,16 +1912,29 @@
     },
     "2026-07-07": {
       "title": "Legs & Core",
-      "exerciseIds": [
-        "bb_squat",
-        "rdl_ham",
-        "leg_press",
-        "leg_extension",
-        "sumo_squat",
-        "standing_calf_raise"
-      ],
       "warmup": "",
-      "cooldown": ""
+      "cooldown": "",
+      "sessions": {
+        "morning": {
+          "exerciseIds": []
+        },
+        "afternoon": {
+          "exerciseIds": []
+        },
+        "evening": {
+          "exerciseIds": [
+            "bb_squat",
+            "rdl_ham",
+            "leg_press",
+            "leg_extension",
+            "sumo_squat",
+            "standing_calf_raise"
+          ]
+        },
+        "night": {
+          "exerciseIds": []
+        }
+      }
     },
     "2026-07-08": {
       "title": "Push - Shoulder",
@@ -2155,8 +2174,10 @@
   },
   "stopwatch": {
     "2026-07-07": {
-      "startedAt": 1783421892721,
-      "endedAt": 1783427663570
+      "evening": {
+        "startedAt": 1783421892721,
+        "endedAt": 1783427663570
+      }
     },
     "2026-07-08": {
       "evening": {
