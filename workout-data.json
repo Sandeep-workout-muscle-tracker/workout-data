@@ -1953,7 +1953,9 @@
             "leg_swings",
             "hip_circles",
             "bodyweight_squats_warmup",
-            "bb_squat"
+            "bb_squat",
+            "leg_press",
+            "bulgarian_split_squat"
           ]
         },
         "afternoon": {
