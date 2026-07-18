@@ -1513,6 +1513,19 @@
       ],
       "note": "",
       "durationSec": 99
+    },
+    {
+      "id": "mrpxzigemr490",
+      "date": "2026-07-18",
+      "exerciseId": "cat_cow",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 80
     }
   ],
   "plans": {
