@@ -1060,7 +1060,8 @@
         }
       ],
       "note": "",
-      "durationSec": 229
+      "durationSec": 229,
+      "session": "evening"
     },
     {
       "id": "mrkjkyzyau76s",
@@ -1081,7 +1082,8 @@
         }
       ],
       "note": "",
-      "durationSec": 343
+      "durationSec": 343,
+      "session": "evening"
     },
     {
       "id": "mrkk5b2ovivyf",
@@ -1106,7 +1108,8 @@
         }
       ],
       "note": "",
-      "durationSec": 738
+      "durationSec": 738,
+      "session": "evening"
     },
     {
       "id": "mrkkllcxg95rt",
@@ -1131,7 +1134,8 @@
         }
       ],
       "note": "",
-      "durationSec": 581
+      "durationSec": 581,
+      "session": "evening"
     },
     {
       "id": "mrkl4qup1w48n",
@@ -1156,7 +1160,8 @@
         }
       ],
       "note": "",
-      "durationSec": 455
+      "durationSec": 455,
+      "session": "evening"
     },
     {
       "id": "mrklmk8ixvnqw",
@@ -1177,7 +1182,8 @@
         }
       ],
       "note": "",
-      "durationSec": 235
+      "durationSec": 235,
+      "session": "evening"
     },
     {
       "id": "mrklyy9ehk1u0",
@@ -1202,7 +1208,8 @@
         }
       ],
       "note": "",
-      "durationSec": 277
+      "durationSec": 277,
+      "session": "evening"
     },
     {
       "id": "mrkml7d43y2ig",
@@ -1223,7 +1230,8 @@
         }
       ],
       "note": "",
-      "durationSec": 594
+      "durationSec": 594,
+      "session": "evening"
     },
     {
       "id": "mrkmlcb9r8y25",
@@ -1236,7 +1244,8 @@
         }
       ],
       "note": "",
-      "durationSec": 3
+      "durationSec": 3,
+      "session": "evening"
     },
     {
       "id": "mrkmlinmoimlz",
@@ -1249,7 +1258,8 @@
         }
       ],
       "note": "",
-      "durationSec": 7
+      "durationSec": 7,
+      "session": "evening"
     },
     {
       "id": "mrnemanhkhqdy",
@@ -1928,18 +1938,31 @@
     },
     "2026-07-14": {
       "title": "Chest & Biceps",
-      "exerciseIds": [
-        "band_chest_pulls",
-        "pushup",
-        "flat_bb_press",
-        "inc_db_press",
-        "pec_deck",
-        "dec_db_press",
-        "cable_curl",
-        "hammer_curl",
-        "lying_chest_stretch",
-        "biceps_wall_stretch"
-      ]
+      "sessions": {
+        "morning": {
+          "exerciseIds": []
+        },
+        "afternoon": {
+          "exerciseIds": []
+        },
+        "evening": {
+          "exerciseIds": [
+            "band_chest_pulls",
+            "pushup",
+            "flat_bb_press",
+            "inc_db_press",
+            "pec_deck",
+            "dec_db_press",
+            "cable_curl",
+            "hammer_curl",
+            "lying_chest_stretch",
+            "biceps_wall_stretch"
+          ]
+        },
+        "night": {
+          "exerciseIds": []
+        }
+      }
     },
     "2026-07-16": {
       "title": "Shoulder & Forearm",
@@ -2080,8 +2103,10 @@
       "endedAt": 1783945974455
     },
     "2026-07-14": {
-      "startedAt": 1784026364431,
-      "endedAt": 1784032021337
+      "evening": {
+        "startedAt": 1784026364431,
+        "endedAt": 1784032021337
+      }
     },
     "2026-07-16": {
       "evening": {
