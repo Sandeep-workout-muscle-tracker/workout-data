@@ -1786,6 +1786,19 @@
       ],
       "note": "",
       "durationSec": 89
+    },
+    {
+      "id": "mrq1s534qxfng",
+      "date": "2026-07-18",
+      "exerciseId": "triceps_overhead",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 69
     }
   ],
   "plans": {
