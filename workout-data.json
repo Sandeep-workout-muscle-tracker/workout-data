@@ -1951,7 +1951,8 @@
         "morning": {
           "exerciseIds": [
             "leg_swings",
-            "hip_circles"
+            "hip_circles",
+            "bodyweight_squats_warmup"
           ]
         },
         "afternoon": {
