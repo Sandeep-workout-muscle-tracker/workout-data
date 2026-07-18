@@ -1946,7 +1946,7 @@
       ]
     },
     "2026-07-19": {
-      "title": "",
+      "title": "Legs",
       "sessions": {
         "morning": {
           "exerciseIds": [
@@ -1961,7 +1961,8 @@
             "bw_calf_raise",
             "hamstring_stretch",
             "pigeon_pose",
-            "quad_stretch"
+            "quad_stretch",
+            "calf_wall_stretch"
           ]
         },
         "afternoon": {
