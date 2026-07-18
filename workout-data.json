@@ -2203,6 +2203,12 @@
     "2026-07-22": {
       "sessions": {
         "morning": {
+          "exerciseIds": []
+        },
+        "afternoon": {
+          "exerciseIds": []
+        },
+        "evening": {
           "exerciseIds": [
             "cat_cow",
             "band_pull_aparts",
@@ -2219,27 +2225,6 @@
             "cobra_stretch",
             "knee_to_chest",
             "triceps_overhead"
-          ]
-        },
-        "afternoon": {
-          "exerciseIds": []
-        },
-        "evening": {
-          "exerciseIds": [
-            "arm_circles",
-            "shoulder_dislocates",
-            "scap_pushups",
-            "wall_slides",
-            "db_ohp",
-            "db_front_raise",
-            "db_lat_raise",
-            "reverse_pec_deck_rd",
-            "cable_face_pull_rd",
-            "wrist_curl",
-            "cross_body_shoulder",
-            "shoulder_rolls",
-            "sleeper_stretch",
-            "reverse_curl"
           ]
         },
         "night": {
