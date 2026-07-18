@@ -470,7 +470,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mrc018w9kjt6o",
@@ -494,7 +495,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mrc0fnwhqmib2",
@@ -518,7 +520,8 @@
           "reps": 12
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mrc0wy5sa31mx",
@@ -542,7 +545,8 @@
           "reps": 12
         }
       ],
-      "note": "Pull the rope to forehead"
+      "note": "Pull the rope to forehead",
+      "session": "evening"
     },
     {
       "id": "mrc1c2zdjy98l",
@@ -566,7 +570,8 @@
           "reps": 10
         }
       ],
-      "note": ""
+      "note": "",
+      "session": "evening"
     },
     {
       "id": "mrc1lqf6vou3o",
@@ -586,7 +591,8 @@
           "reps": 10
         }
       ],
-      "note": "Weight = body weight"
+      "note": "Weight = body weight",
+      "session": "evening"
     },
     {
       "id": "mrddjmyfqer0f",
@@ -1913,16 +1919,29 @@
     },
     "2026-07-08": {
       "title": "Push - Shoulder",
-      "exerciseIds": [
-        "bb_ohp",
-        "db_lat_raise",
-        "db_front_raise",
-        "cable_face_pull_rd",
-        "reverse_pec_deck_rd",
-        "lying_leg_raise"
-      ],
       "warmup": "",
-      "cooldown": ""
+      "cooldown": "",
+      "sessions": {
+        "morning": {
+          "exerciseIds": []
+        },
+        "afternoon": {
+          "exerciseIds": []
+        },
+        "evening": {
+          "exerciseIds": [
+            "bb_ohp",
+            "db_lat_raise",
+            "db_front_raise",
+            "cable_face_pull_rd",
+            "reverse_pec_deck_rd",
+            "lying_leg_raise"
+          ]
+        },
+        "night": {
+          "exerciseIds": []
+        }
+      }
     },
     "2026-07-09": {
       "title": "Back & Triceps",
@@ -2140,8 +2159,10 @@
       "endedAt": 1783427663570
     },
     "2026-07-08": {
-      "startedAt": 1783507734075,
-      "endedAt": 1783514572971
+      "evening": {
+        "startedAt": 1783507734075,
+        "endedAt": 1783514572971
+      }
     },
     "2026-07-09": {
       "evening": {
