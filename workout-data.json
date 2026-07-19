@@ -2103,39 +2103,6 @@
         "triceps_overhead"
       ]
     },
-    "2026-07-22": {
-      "sessions": {
-        "morning": {
-          "exerciseIds": []
-        },
-        "afternoon": {
-          "exerciseIds": []
-        },
-        "evening": {
-          "exerciseIds": [
-            "cat_cow",
-            "band_pull_aparts",
-            "thoracic_rotations",
-            "scap_pulls",
-            "cable_pushdown",
-            "db_oh_ext",
-            "deadlift",
-            "lat_pulldown",
-            "seated_cable_row",
-            "cable_face_pull_mid",
-            "hyperextension",
-            "db_shrug",
-            "cobra_stretch",
-            "knee_to_chest",
-            "triceps_overhead"
-          ]
-        },
-        "night": {
-          "exerciseIds": []
-        }
-      },
-      "title": "Shoulder & Forearm"
-    },
     "2026-07-23": {
       "sessions": {
         "morning": {
