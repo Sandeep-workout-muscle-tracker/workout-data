@@ -2131,48 +2131,6 @@
         }
       }
     },
-    "2026-07-20": {
-      "sessions": {
-        "morning": {
-          "exerciseIds": [
-            "leg_swings",
-            "hip_circles",
-            "bodyweight_squats_warmup",
-            "bb_squat",
-            "leg_press",
-            "rdl_ham",
-            "sumo_squat",
-            "bulgarian_split_squat_g",
-            "bw_calf_raise",
-            "hamstring_stretch",
-            "pigeon_pose",
-            "quad_stretch",
-            "calf_wall_stretch"
-          ]
-        },
-        "afternoon": {
-          "exerciseIds": []
-        },
-        "evening": {
-          "exerciseIds": [
-            "band_chest_pulls",
-            "pushup",
-            "flat_bb_press",
-            "inc_db_press",
-            "pec_deck",
-            "dec_db_press",
-            "cable_curl",
-            "hammer_curl",
-            "lying_chest_stretch",
-            "biceps_wall_stretch"
-          ]
-        },
-        "night": {
-          "exerciseIds": []
-        }
-      },
-      "title": "Chest & Biceps"
-    },
     "2026-07-21": {
       "sessions": {
         "morning": {
