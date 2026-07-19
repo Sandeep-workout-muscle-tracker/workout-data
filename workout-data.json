@@ -2169,20 +2169,16 @@
         },
         "evening": {
           "exerciseIds": [
-            "arm_circles",
-            "shoulder_dislocates",
-            "scap_pushups",
-            "wall_slides",
-            "db_ohp",
-            "db_front_raise",
-            "db_lat_raise",
-            "reverse_pec_deck_rd",
-            "cable_face_pull_rd",
-            "wrist_curl",
-            "cross_body_shoulder",
-            "shoulder_rolls",
-            "sleeper_stretch",
-            "reverse_curl"
+            "band_chest_pulls",
+            "pushup",
+            "flat_bb_press",
+            "inc_db_press",
+            "pec_deck",
+            "dec_db_press",
+            "cable_curl",
+            "hammer_curl",
+            "lying_chest_stretch",
+            "biceps_wall_stretch"
           ]
         },
         "night": {
