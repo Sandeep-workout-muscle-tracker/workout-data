@@ -1980,6 +1980,28 @@
       "note": "",
       "durationSec": 494,
       "session": "evening"
+    },
+    {
+      "id": "ms7hp52mtttcb",
+      "date": "2026-07-30",
+      "exerciseId": "bb_curl",
+      "sets": [
+        {
+          "weight": 15,
+          "reps": 12
+        },
+        {
+          "weight": 15,
+          "reps": 12
+        },
+        {
+          "weight": 15,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 1193,
+      "session": "evening"
     }
   ],
   "plans": {
