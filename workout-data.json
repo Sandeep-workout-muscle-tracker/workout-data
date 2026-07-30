@@ -1902,6 +1902,32 @@
       "note": "",
       "durationSec": 208,
       "session": "evening"
+    },
+    {
+      "id": "ms7fxgpcfkokj",
+      "date": "2026-07-30",
+      "exerciseId": "flat_bb_press",
+      "sets": [
+        {
+          "weight": 25,
+          "reps": 12
+        },
+        {
+          "weight": 35,
+          "reps": 10
+        },
+        {
+          "weight": 35,
+          "reps": 10
+        },
+        {
+          "weight": 40,
+          "reps": 6
+        }
+      ],
+      "note": "",
+      "durationSec": 794,
+      "session": "evening"
     }
   ],
   "plans": {
