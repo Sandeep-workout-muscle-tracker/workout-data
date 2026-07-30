@@ -1880,6 +1880,28 @@
       "note": "",
       "durationSec": 91,
       "session": "evening"
+    },
+    {
+      "id": "ms7fcuxmpap38",
+      "date": "2026-07-30",
+      "exerciseId": "pushup",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 18
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 208,
+      "session": "evening"
     }
   ],
   "plans": {
