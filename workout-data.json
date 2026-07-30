@@ -1928,6 +1928,32 @@
       "note": "",
       "durationSec": 794,
       "session": "evening"
+    },
+    {
+      "id": "ms7ggxyuwdgpy",
+      "date": "2026-07-30",
+      "exerciseId": "inc_db_press",
+      "sets": [
+        {
+          "weight": 12.5,
+          "reps": 12
+        },
+        {
+          "weight": 12.5,
+          "reps": 10
+        },
+        {
+          "weight": 10,
+          "reps": 12
+        },
+        {
+          "weight": 10,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 651,
+      "session": "evening"
     }
   ],
   "plans": {
