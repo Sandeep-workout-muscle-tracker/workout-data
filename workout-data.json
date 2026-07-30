@@ -2024,6 +2024,20 @@
       "note": "",
       "durationSec": 357,
       "session": "evening"
+    },
+    {
+      "id": "ms7i6nj3eh5ui",
+      "date": "2026-07-30",
+      "exerciseId": "lying_chest_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 5,
+      "session": "evening"
     }
   ],
   "plans": {
