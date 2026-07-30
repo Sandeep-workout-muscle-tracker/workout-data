@@ -2355,10 +2355,10 @@
             "flat_bb_press",
             "inc_db_press",
             "pec_deck",
+            "bb_curl",
             "hammer_curl",
             "lying_chest_stretch",
-            "biceps_wall_stretch",
-            "bb_curl"
+            "biceps_wall_stretch"
           ]
         },
         "night": {
