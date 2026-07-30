@@ -1866,6 +1866,20 @@
       ],
       "note": "",
       "durationSec": 69
+    },
+    {
+      "id": "ms7f8d4wea0lb",
+      "date": "2026-07-30",
+      "exerciseId": "band_chest_pulls",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 91,
+      "session": "evening"
     }
   ],
   "plans": {
