@@ -1954,6 +1954,32 @@
       "note": "",
       "durationSec": 651,
       "session": "evening"
+    },
+    {
+      "id": "ms7gupynf63d6",
+      "date": "2026-07-30",
+      "exerciseId": "pec_deck",
+      "sets": [
+        {
+          "weight": 59,
+          "reps": 12
+        },
+        {
+          "weight": 52,
+          "reps": 12
+        },
+        {
+          "weight": 52,
+          "reps": 8
+        },
+        {
+          "weight": 45,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 494,
+      "session": "evening"
     }
   ],
   "plans": {
