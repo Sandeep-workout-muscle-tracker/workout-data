@@ -2002,6 +2002,28 @@
       "note": "",
       "durationSec": 1193,
       "session": "evening"
+    },
+    {
+      "id": "ms7i0199wh3i0",
+      "date": "2026-07-30",
+      "exerciseId": "hammer_curl",
+      "sets": [
+        {
+          "weight": 12.5,
+          "reps": 6
+        },
+        {
+          "weight": 10,
+          "reps": 8
+        },
+        {
+          "weight": 7.5,
+          "reps": 11
+        }
+      ],
+      "note": "",
+      "durationSec": 357,
+      "session": "evening"
     }
   ],
   "plans": {
