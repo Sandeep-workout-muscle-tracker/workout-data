@@ -2038,6 +2038,20 @@
       "note": "",
       "durationSec": 5,
       "session": "evening"
+    },
+    {
+      "id": "ms7i740j0iq48",
+      "date": "2026-07-30",
+      "exerciseId": "biceps_wall_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 1
+        }
+      ],
+      "note": "",
+      "durationSec": 7,
+      "session": "evening"
     }
   ],
   "plans": {
