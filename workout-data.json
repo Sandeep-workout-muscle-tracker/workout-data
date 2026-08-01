@@ -2260,6 +2260,20 @@
       "note": "",
       "durationSec": 464,
       "session": "morning"
+    },
+    {
+      "id": "ms9zqvhvem8i9",
+      "date": "2026-08-01",
+      "exerciseId": "shoulder_rolls",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 6,
+      "session": "morning"
     }
   ],
   "plans": {
