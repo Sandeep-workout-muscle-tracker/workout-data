@@ -2108,6 +2108,32 @@
       "note": "",
       "durationSec": 61,
       "session": "morning"
+    },
+    {
+      "id": "ms9xxllw44n71",
+      "date": "2026-08-01",
+      "exerciseId": "db_ohp",
+      "sets": [
+        {
+          "weight": 12.5,
+          "reps": 12
+        },
+        {
+          "weight": 12.5,
+          "reps": 10
+        },
+        {
+          "weight": 10,
+          "reps": 9
+        },
+        {
+          "weight": 10,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 502,
+      "session": "morning"
     }
   ],
   "plans": {
