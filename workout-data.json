@@ -2442,12 +2442,6 @@
     "2026-08-01": {
       "sessions": {
         "morning": {
-          "exerciseIds": []
-        },
-        "afternoon": {
-          "exerciseIds": []
-        },
-        "evening": {
           "exerciseIds": [
             "arm_circles",
             "shoulder_dislocates",
@@ -2464,6 +2458,12 @@
             "sleeper_stretch",
             "reverse_curl"
           ]
+        },
+        "afternoon": {
+          "exerciseIds": []
+        },
+        "evening": {
+          "exerciseIds": []
         },
         "night": {
           "exerciseIds": []
@@ -2520,12 +2520,6 @@
       "evening": {
         "startedAt": 1785410069642,
         "endedAt": null
-      }
-    },
-    "2026-08-01": {
-      "morning": {
-        "startedAt": 1785561582787,
-        "endedAt": 1785561593478
       }
     }
   },
