@@ -2234,6 +2234,32 @@
       "note": "",
       "durationSec": 443,
       "session": "morning"
+    },
+    {
+      "id": "ms9zlqlmqacsp",
+      "date": "2026-08-01",
+      "exerciseId": "reverse_curl",
+      "sets": [
+        {
+          "weight": 15,
+          "reps": 12
+        },
+        {
+          "weight": 15,
+          "reps": 10
+        },
+        {
+          "weight": 10,
+          "reps": 10
+        },
+        {
+          "weight": 10,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 464,
+      "session": "morning"
     }
   ],
   "plans": {
