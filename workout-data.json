@@ -2094,6 +2094,20 @@
       "note": "",
       "durationSec": 55,
       "session": "morning"
+    },
+    {
+      "id": "ms9xkpm8acj7c",
+      "date": "2026-08-01",
+      "exerciseId": "wall_slides",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 61,
+      "session": "morning"
     }
   ],
   "plans": {
