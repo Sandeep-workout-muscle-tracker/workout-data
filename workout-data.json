@@ -2274,6 +2274,20 @@
       "note": "",
       "durationSec": 6,
       "session": "morning"
+    },
+    {
+      "id": "ms9zqzpuo6g5l",
+      "date": "2026-08-01",
+      "exerciseId": "cross_body_shoulder",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 4,
+      "session": "morning"
     }
   ],
   "plans": {
