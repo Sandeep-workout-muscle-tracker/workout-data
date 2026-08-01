@@ -2208,6 +2208,32 @@
       "note": "",
       "durationSec": 513,
       "session": "morning"
+    },
+    {
+      "id": "ms9zasaa40pcn",
+      "date": "2026-08-01",
+      "exerciseId": "wrist_curl",
+      "sets": [
+        {
+          "weight": 15,
+          "reps": 12
+        },
+        {
+          "weight": 15,
+          "reps": 12
+        },
+        {
+          "weight": 10,
+          "reps": 12
+        },
+        {
+          "weight": 10,
+          "reps": 14
+        }
+      ],
+      "note": "",
+      "durationSec": 443,
+      "session": "morning"
     }
   ],
   "plans": {
