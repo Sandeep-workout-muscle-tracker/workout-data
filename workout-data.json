@@ -2052,6 +2052,20 @@
       "note": "",
       "durationSec": 7,
       "session": "evening"
+    },
+    {
+      "id": "ms9xgbvcumgip",
+      "date": "2026-08-01",
+      "exerciseId": "arm_circles",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 118,
+      "session": "morning"
     }
   ],
   "plans": {
