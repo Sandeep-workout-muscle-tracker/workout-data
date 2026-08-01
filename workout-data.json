@@ -2182,6 +2182,32 @@
       "note": "",
       "durationSec": 444,
       "session": "morning"
+    },
+    {
+      "id": "ms9yxxrhlhbnx",
+      "date": "2026-08-01",
+      "exerciseId": "reverse_pec_deck_rd",
+      "sets": [
+        {
+          "weight": 52,
+          "reps": 10
+        },
+        {
+          "weight": 52,
+          "reps": 10
+        },
+        {
+          "weight": 45,
+          "reps": 9
+        },
+        {
+          "weight": 45,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 513,
+      "session": "morning"
     }
   ],
   "plans": {
