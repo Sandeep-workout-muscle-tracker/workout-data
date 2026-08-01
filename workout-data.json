@@ -2080,6 +2080,20 @@
       "note": "",
       "durationSec": 74,
       "session": "morning"
+    },
+    {
+      "id": "ms9xjd0v0pc70",
+      "date": "2026-08-01",
+      "exerciseId": "scap_pushups",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 55,
+      "session": "morning"
     }
   ],
   "plans": {
