@@ -2160,6 +2160,28 @@
       "note": "",
       "durationSec": 431,
       "session": "morning"
+    },
+    {
+      "id": "ms9ykwy6a4j5b",
+      "date": "2026-08-01",
+      "exerciseId": "db_front_raise",
+      "sets": [
+        {
+          "weight": 7.5,
+          "reps": 10
+        },
+        {
+          "weight": 7.5,
+          "reps": 10
+        },
+        {
+          "weight": 5,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 444,
+      "session": "morning"
     }
   ],
   "plans": {
