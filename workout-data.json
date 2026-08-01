@@ -2521,6 +2521,12 @@
         "startedAt": 1785410069642,
         "endedAt": null
       }
+    },
+    "2026-08-01": {
+      "morning": {
+        "startedAt": 1785561774127,
+        "endedAt": null
+      }
     }
   },
   "library": {
