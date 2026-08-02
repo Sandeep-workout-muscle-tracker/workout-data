@@ -2430,6 +2430,24 @@
       "note": "",
       "durationSec": 346,
       "session": "morning"
+    },
+    {
+      "id": "msbf09tiwxus9",
+      "date": "2026-08-02",
+      "exerciseId": "bulgarian_split_squat_g",
+      "sets": [
+        {
+          "weight": 10,
+          "reps": 8
+        },
+        {
+          "weight": 10,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 356,
+      "session": "morning"
     }
   ],
   "plans": {
