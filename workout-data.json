@@ -2484,6 +2484,20 @@
       "note": "",
       "durationSec": 276,
       "session": "morning"
+    },
+    {
+      "id": "msbfgc2f2iqth",
+      "date": "2026-08-02",
+      "exerciseId": "pigeon_pose",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 3,
+      "session": "morning"
     }
   ],
   "plans": {
