@@ -2316,6 +2316,20 @@
       "note": "",
       "durationSec": 205,
       "session": "morning"
+    },
+    {
+      "id": "msbcu6dhphtix",
+      "date": "2026-08-02",
+      "exerciseId": "hip_circles",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 8,
+      "session": "morning"
     }
   ],
   "plans": {
