@@ -2498,6 +2498,20 @@
       "note": "",
       "durationSec": 3,
       "session": "morning"
+    },
+    {
+      "id": "msbfgfnpwlw0a",
+      "date": "2026-08-02",
+      "exerciseId": "quad_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 3,
+      "session": "morning"
     }
   ],
   "plans": {
