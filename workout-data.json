@@ -2408,6 +2408,28 @@
       "note": "",
       "durationSec": 904,
       "session": "morning"
+    },
+    {
+      "id": "msbeqjwtzloie",
+      "date": "2026-08-02",
+      "exerciseId": "sumo_squat",
+      "sets": [
+        {
+          "weight": 16,
+          "reps": 12
+        },
+        {
+          "weight": 16,
+          "reps": 12
+        },
+        {
+          "weight": 16,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 346,
+      "session": "morning"
     }
   ],
   "plans": {
