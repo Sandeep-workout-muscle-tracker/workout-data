@@ -2448,6 +2448,28 @@
       "note": "",
       "durationSec": 356,
       "session": "morning"
+    },
+    {
+      "id": "msbf8x7x38wjd",
+      "date": "2026-08-02",
+      "exerciseId": "bw_calf_raise",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 15
+        },
+        {
+          "weight": 0,
+          "reps": 15
+        },
+        {
+          "weight": 0,
+          "reps": 15
+        }
+      ],
+      "note": "",
+      "durationSec": 259,
+      "session": "morning"
     }
   ],
   "plans": {
