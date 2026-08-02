@@ -2352,6 +2352,36 @@
       "note": "",
       "durationSec": 356,
       "session": "morning"
+    },
+    {
+      "id": "msbdqgc280f48",
+      "date": "2026-08-02",
+      "exerciseId": "leg_press",
+      "sets": [
+        {
+          "weight": 40,
+          "reps": 12
+        },
+        {
+          "weight": 60,
+          "reps": 12
+        },
+        {
+          "weight": 70,
+          "reps": 10
+        },
+        {
+          "weight": 80,
+          "reps": 8
+        },
+        {
+          "weight": 90,
+          "reps": 5
+        }
+      ],
+      "note": "",
+      "durationSec": 832,
+      "session": "morning"
     }
   ],
   "plans": {
@@ -2778,6 +2808,7 @@
             "hip_circles",
             "bodyweight_squats_warmup",
             "leg_press",
+            "leg_extension",
             "rdl_ham",
             "sumo_squat",
             "bulgarian_split_squat_g",
@@ -2785,8 +2816,7 @@
             "hamstring_stretch",
             "pigeon_pose",
             "quad_stretch",
-            "calf_wall_stretch",
-            "leg_extension"
+            "calf_wall_stretch"
           ]
         },
         "afternoon": {
