@@ -2302,6 +2302,20 @@
       "note": "",
       "durationSec": 45,
       "session": "morning"
+    },
+    {
+      "id": "msbcqybx61vfh",
+      "date": "2026-08-02",
+      "exerciseId": "leg_swings",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 20
+        }
+      ],
+      "note": "",
+      "durationSec": 205,
+      "session": "morning"
     }
   ],
   "plans": {
