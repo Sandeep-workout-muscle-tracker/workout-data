@@ -2512,6 +2512,20 @@
       "note": "",
       "durationSec": 3,
       "session": "morning"
+    },
+    {
+      "id": "msbfgjgijy1s6",
+      "date": "2026-08-02",
+      "exerciseId": "calf_wall_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 3,
+      "session": "morning"
     }
   ],
   "plans": {
