@@ -2330,6 +2330,28 @@
       "note": "",
       "durationSec": 8,
       "session": "morning"
+    },
+    {
+      "id": "msbd1xlhkb8sf",
+      "date": "2026-08-02",
+      "exerciseId": "bodyweight_squats_warmup",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 15
+        },
+        {
+          "weight": 0,
+          "reps": 15
+        },
+        {
+          "weight": 0,
+          "reps": 15
+        }
+      ],
+      "note": "",
+      "durationSec": 356,
+      "session": "morning"
     }
   ],
   "plans": {
