@@ -3060,7 +3060,12 @@
     "foods": {}
   },
   "bodyweight": {
-    "entries": [],
+    "entries": [
+      {
+        "date": "2026-04-04",
+        "kg": 68.4
+      }
+    ],
     "goalKg": null,
     "unit": "kg"
   }
