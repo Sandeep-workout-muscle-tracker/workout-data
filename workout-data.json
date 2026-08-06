@@ -2690,6 +2690,32 @@
       "note": "",
       "durationSec": 213,
       "session": "evening"
+    },
+    {
+      "id": "mshi175n8o5wm",
+      "date": "2026-08-06",
+      "exerciseId": "cable_pushdown",
+      "sets": [
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        },
+        {
+          "weight": 13.6,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 443,
+      "session": "evening"
     }
   ],
   "plans": {
