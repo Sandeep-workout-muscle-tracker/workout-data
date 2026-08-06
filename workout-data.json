@@ -3052,7 +3052,6 @@
             "band_pull_aparts",
             "thoracic_rotations",
             "scap_pulls",
-            "db_oh_ext",
             "deadlift",
             "lat_pulldown",
             "seated_cable_row",
@@ -3060,6 +3059,7 @@
             "hyperextension",
             "cable_pushdown",
             "db_shrug",
+            "db_oh_ext",
             "cobra_stretch",
             "knee_to_chest",
             "triceps_overhead"
