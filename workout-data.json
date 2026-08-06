@@ -2668,6 +2668,28 @@
       "note": "",
       "durationSec": 510,
       "session": "evening"
+    },
+    {
+      "id": "mshhn514qw2tg",
+      "date": "2026-08-06",
+      "exerciseId": "hyperextension",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        },
+        {
+          "weight": 0,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 213,
+      "session": "evening"
     }
   ],
   "plans": {
