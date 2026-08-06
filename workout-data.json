@@ -2554,6 +2554,20 @@
       "note": "",
       "durationSec": 3,
       "session": "evening"
+    },
+    {
+      "id": "mshfxrfvhd8id",
+      "date": "2026-08-06",
+      "exerciseId": "thoracic_rotations",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 5,
+      "session": "evening"
     }
   ],
   "plans": {
