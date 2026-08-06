@@ -2642,6 +2642,32 @@
       "note": "",
       "durationSec": 245,
       "session": "evening"
+    },
+    {
+      "id": "mshhgvfx437wd",
+      "date": "2026-08-06",
+      "exerciseId": "seated_cable_row",
+      "sets": [
+        {
+          "weight": 43,
+          "reps": 8
+        },
+        {
+          "weight": 36,
+          "reps": 10
+        },
+        {
+          "weight": 36,
+          "reps": 8
+        },
+        {
+          "weight": 29,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 510,
+      "session": "evening"
     }
   ],
   "plans": {
