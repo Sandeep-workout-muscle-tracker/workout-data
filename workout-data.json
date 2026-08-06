@@ -2590,6 +2590,32 @@
       "note": "",
       "durationSec": 167,
       "session": "evening"
+    },
+    {
+      "id": "mshgocay8bko9",
+      "date": "2026-08-06",
+      "exerciseId": "deadlift",
+      "sets": [
+        {
+          "weight": 70,
+          "reps": 8
+        },
+        {
+          "weight": 80,
+          "reps": 7
+        },
+        {
+          "weight": 90,
+          "reps": 5
+        },
+        {
+          "weight": 100,
+          "reps": 3
+        }
+      ],
+      "note": "",
+      "durationSec": 915,
+      "session": "evening"
     }
   ],
   "plans": {
