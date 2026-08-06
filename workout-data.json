@@ -2716,6 +2716,28 @@
       "note": "",
       "durationSec": 443,
       "session": "evening"
+    },
+    {
+      "id": "mshibunakmi5l",
+      "date": "2026-08-06",
+      "exerciseId": "db_oh_ext",
+      "sets": [
+        {
+          "weight": 12.5,
+          "reps": 12
+        },
+        {
+          "weight": 12.5,
+          "reps": 9
+        },
+        {
+          "weight": 12.5,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 313,
+      "session": "evening"
     }
   ],
   "plans": {
