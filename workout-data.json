@@ -2526,6 +2526,20 @@
       "note": "",
       "durationSec": 3,
       "session": "morning"
+    },
+    {
+      "id": "mshfxhm4dfriy",
+      "date": "2026-08-06",
+      "exerciseId": "cat_cow",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 248,
+      "session": "evening"
     }
   ],
   "plans": {
