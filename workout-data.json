@@ -2977,6 +2977,12 @@
     "2026-08-06": {
       "sessions": {
         "morning": {
+          "exerciseIds": []
+        },
+        "afternoon": {
+          "exerciseIds": []
+        },
+        "evening": {
           "exerciseIds": [
             "cat_cow",
             "band_pull_aparts",
@@ -2994,12 +3000,6 @@
             "knee_to_chest",
             "triceps_overhead"
           ]
-        },
-        "afternoon": {
-          "exerciseIds": []
-        },
-        "evening": {
-          "exerciseIds": []
         },
         "night": {
           "exerciseIds": []
