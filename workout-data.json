@@ -2629,6 +2629,14 @@
         {
           "weight": 45,
           "reps": 10
+        },
+        {
+          "weight": 39,
+          "reps": 11
+        },
+        {
+          "weight": 39,
+          "reps": 8
         }
       ],
       "note": "",
