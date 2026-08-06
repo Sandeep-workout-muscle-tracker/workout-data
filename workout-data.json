@@ -2634,6 +2634,20 @@
       "note": "",
       "durationSec": 245,
       "session": "evening"
+    },
+    {
+      "id": "mshgyfoez633e",
+      "date": "2026-08-06",
+      "exerciseId": "lat_pulldown",
+      "sets": [
+        {
+          "weight": 39,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 9,
+      "session": "evening"
     }
   ],
   "plans": {
