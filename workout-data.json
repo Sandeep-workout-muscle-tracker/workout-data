@@ -2884,6 +2884,24 @@
       "note": "",
       "durationSec": 369,
       "session": "morning"
+    },
+    {
+      "id": "msvenx5tuqhuc",
+      "date": "2026-08-16",
+      "exerciseId": "lying_chest_stretch",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 10
+        },
+        {
+          "weight": 0,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 8,
+      "session": "morning"
     }
   ],
   "plans": {
