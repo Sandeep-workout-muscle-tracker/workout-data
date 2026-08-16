@@ -3225,7 +3225,8 @@
       "sessions": {
         "morning": {
           "exerciseIds": [
-            "inc_db_press"
+            "inc_db_press",
+            "flat_bb_press"
           ]
         },
         "afternoon": {
