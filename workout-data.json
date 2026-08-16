@@ -2840,6 +2840,28 @@
       "note": "",
       "durationSec": 443,
       "session": "morning"
+    },
+    {
+      "id": "msve7qdp5e5i7",
+      "date": "2026-08-16",
+      "exerciseId": "cable_curl",
+      "sets": [
+        {
+          "weight": 15.9,
+          "reps": 12
+        },
+        {
+          "weight": 15.9,
+          "reps": 10
+        },
+        {
+          "weight": 0,
+          "reps": 9
+        }
+      ],
+      "note": "",
+      "durationSec": 497,
+      "session": "morning"
     }
   ],
   "plans": {
