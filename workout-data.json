@@ -3230,7 +3230,8 @@
             "pec_deck",
             "dec_db_press",
             "hammer_curl",
-            "cable_curl"
+            "cable_curl",
+            "pushup"
           ]
         },
         "afternoon": {
@@ -3292,7 +3293,7 @@
     "2026-07-30": {
       "evening": {
         "startedAt": 1785410069642,
-        "endedAt": 1786854700254
+        "endedAt": null
       }
     },
     "2026-08-01": {
