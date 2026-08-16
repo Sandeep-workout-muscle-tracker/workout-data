@@ -2752,6 +2752,28 @@
       "note": "",
       "durationSec": 4,
       "session": "morning"
+    },
+    {
+      "id": "msvcvlnmzea6j",
+      "date": "2026-08-16",
+      "exerciseId": "pushup",
+      "sets": [
+        {
+          "weight": 0,
+          "reps": 20
+        },
+        {
+          "weight": 0,
+          "reps": 10
+        },
+        {
+          "weight": 0,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 236,
+      "session": "morning"
     }
   ],
   "plans": {
