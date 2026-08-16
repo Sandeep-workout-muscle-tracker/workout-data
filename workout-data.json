@@ -2774,6 +2774,28 @@
       "note": "",
       "durationSec": 236,
       "session": "morning"
+    },
+    {
+      "id": "msvd70mc3g1br",
+      "date": "2026-08-16",
+      "exerciseId": "flat_bb_press",
+      "sets": [
+        {
+          "weight": 30,
+          "reps": 12
+        },
+        {
+          "weight": 35,
+          "reps": 8
+        },
+        {
+          "weight": 35,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 400,
+      "session": "morning"
     }
   ],
   "plans": {
