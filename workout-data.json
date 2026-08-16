@@ -3227,7 +3227,8 @@
           "exerciseIds": [
             "inc_db_press",
             "flat_bb_press",
-            "pec_deck"
+            "pec_deck",
+            "dec_db_press"
           ]
         },
         "afternoon": {
