@@ -2818,6 +2818,28 @@
       "note": "",
       "durationSec": 395,
       "session": "morning"
+    },
+    {
+      "id": "msvdvc0a6ip4b",
+      "date": "2026-08-16",
+      "exerciseId": "pec_deck",
+      "sets": [
+        {
+          "weight": 52,
+          "reps": 12
+        },
+        {
+          "weight": 52,
+          "reps": 10
+        },
+        {
+          "weight": 45,
+          "reps": 12
+        }
+      ],
+      "note": "",
+      "durationSec": 443,
+      "session": "morning"
     }
   ],
   "plans": {
