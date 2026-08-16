@@ -2796,6 +2796,28 @@
       "note": "",
       "durationSec": 400,
       "session": "morning"
+    },
+    {
+      "id": "msvdhq2skuzyx",
+      "date": "2026-08-16",
+      "exerciseId": "inc_db_press",
+      "sets": [
+        {
+          "weight": 12.5,
+          "reps": 10
+        },
+        {
+          "weight": 12.5,
+          "reps": 8
+        },
+        {
+          "weight": 10,
+          "reps": 10
+        }
+      ],
+      "note": "",
+      "durationSec": 395,
+      "session": "morning"
     }
   ],
   "plans": {
