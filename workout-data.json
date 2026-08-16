@@ -3225,13 +3225,13 @@
       "sessions": {
         "morning": {
           "exerciseIds": [
+            "pushup",
             "inc_db_press",
             "flat_bb_press",
             "pec_deck",
             "dec_db_press",
             "hammer_curl",
-            "cable_curl",
-            "pushup"
+            "cable_curl"
           ]
         },
         "afternoon": {
