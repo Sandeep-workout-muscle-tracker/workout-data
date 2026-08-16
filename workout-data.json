@@ -3230,8 +3230,8 @@
             "inc_db_press",
             "pec_deck",
             "dec_db_press",
-            "hammer_curl",
-            "cable_curl"
+            "cable_curl",
+            "hammer_curl"
           ]
         },
         "afternoon": {
