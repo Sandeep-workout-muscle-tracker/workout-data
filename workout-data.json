@@ -2862,6 +2862,28 @@
       "note": "",
       "durationSec": 497,
       "session": "morning"
+    },
+    {
+      "id": "msveiawx7c2oi",
+      "date": "2026-08-16",
+      "exerciseId": "hammer_curl",
+      "sets": [
+        {
+          "weight": 10,
+          "reps": 7
+        },
+        {
+          "weight": 7.5,
+          "reps": 8
+        },
+        {
+          "weight": 7.5,
+          "reps": 8
+        }
+      ],
+      "note": "",
+      "durationSec": 369,
+      "session": "morning"
     }
   ],
   "plans": {
